@@ -10,9 +10,9 @@
         Hey there, I'm <span style="color:#00FFFF"><b>Mounusha Ram Metti</b></span> 👨‍💻
       </h1>
       <p>
-        <i><b>Engineer by training, creator by passion.</b> I'm a Graduate Student at ASU blending<br>
-        <b>AI, Computer Vision, and Data Mining</b> to design intelligent systems that solve real-world problems.<br>
-        Driven by curiosity, I love building solutions that are scalable, insightful, and elegant.</i>
+        <i><b>Aspiring Data scientist by discipline, sustainability strategist by drive.</b> I'm a Graduate Student at ASU integrating<br>
+        <b>Machine Learning, Spatial Analysis, Environmental engineering</b> to design intelligent systems for real-world impact.<br>
+        Curious and interdisciplinary at core, I believe data is most powerful when it drives change.</i>
       </p>
     </td>
   </tr>
