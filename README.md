@@ -24,9 +24,9 @@
 ### 🔍 About Me
 
 ```yaml
-Name: Brijesh Kumar
+Name: Mounusha Ram Metti
 Role: Graduate Student @ Arizona State University
-Passion: AI/ML, Data Mining, Computer Vision, Software Engineering
+Passion: Machine Learning, Spatial Analysis, Sustainability, Data Science
 Strengths:
   - 📊 Data-driven Development
   - 🧠 Deep Learning, NLP, Recommender Systems
