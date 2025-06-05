@@ -10,7 +10,7 @@
         Hey there, I'm <span style="color:#00FFFF"><b>Mounusha Ram Metti</b></span> 👨‍💻
       </h1>
       <p>
-        <i><b>Aspiring Data scientist by discipline, sustainability strategist by drive.</b> I'm a Graduate Student at ASU integrating
+        <i><b>Aspiring Data scientist by discipline, sustainability strategist by drive.<br></b> I'm a Graduate Student at ASU integrating
         <b>Machine Learning, Spatial Analysis, Environmental engineering</b> to design intelligent systems for real-world impact.<br>
         Curious and interdisciplinary at core, I believe data is most powerful when it drives change.</i>
       </p>
