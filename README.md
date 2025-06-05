@@ -32,10 +32,10 @@ Role: Graduate Student @ Arizona State University
 Passion: Machine Learning, Spatial Analysis, Sustainability, Data Science
 Strengths:
   - 📊 Data-driven Development
-  - 🧠 Deep Learning, NLP, Recommender Systems
-  - 🛠️ Microservices, REST APIs, Scalable Backend
-  - 🧮 Big Data, Distributed Computing
-CodingPower:
+  - 🗺️ Geospatial Analysis & Mapping
+  - 🧠 Predictive Modeling & Interpretability
+  - 📊 Data Visualization & Storytelling
+Achievements:
   - 💻 Solved 600+ LeetCode Problems
   - 🏅 Top 150 out of 20,000+ on CodeChef
   - 🔢 TA for Statistics & Probability
