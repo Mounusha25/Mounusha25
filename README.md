@@ -1,9 +1,6 @@
 
 <table>
   <tr>
-    <td width="250" align="center">
-      <img src="https://github.com/Brijesh03032001/Brijesh03032001/blob/main/github3dBrijesh.png" width="200" style="border-radius: 15px;" alt="Brijesh Kumar"/>
-    </td>
     <td>
       <h1>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
