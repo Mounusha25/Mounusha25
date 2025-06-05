@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="250" align="center">
-      <img src="https://github.com/Brijesh03032001/Brijesh03032001/blob/main/github3dBrijesh.png" width="200" style="border-radius: 15px;" alt="Brijesh Kumar"/>
+      <img src="https://github.com/Mounusha25/Mounusha25/blob/main/Mounusha_1.png" width="200" style="border-radius: 15px;" alt="Brijesh Kumar"/>
     </td>
     <td>
       <h1>
