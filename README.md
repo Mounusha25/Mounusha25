@@ -58,14 +58,14 @@ Achievements:
 ### 🚀 Notable Projects
 
 
-#### 🧠 Dementia Detection via Deep Learning
-Developed a medical AI application to assist in **early-stage dementia diagnosis** by classifying brain MRI scans.  
-- Utilized **Convolutional Neural Networks (CNNs)** for automatic feature extraction from brain images  
-- Implemented **image segmentation** to isolate critical brain regions for focused analysis  
-- Achieved improved prediction accuracy through model optimization and data augmentation  
-- **Tech Stack**: Python, TensorFlow, OpenCV, Scikit-learn, Matplotlib  
-> 📌 *Impact*: Helps neurologists make informed decisions earlier, improving patient outcomes
-
+#### 💧 Smart Water Infrastructure Optimization
+🔍 Designed a multi-objective optimization model to guide long-term water supply planning under future demand scenarios (2040 and 2070).  
+- Applied **NSGA-II** Genetic Algorithm to evaluate 7 real-world water strategies (e.g., desalination, conservation, reuse)
+- Optimized trade-offs across cost, resilience, and feasibility to generate Pareto-optimal solutions
+- Visualized strategy performance using comparative bar charts, correlation heatmaps, and Pareto frontiers
+- Delivered interpretable outputs to support infrastructure planning under climate uncertainty
+- **Tech Stack**: Python, DEAP, Pandas, Matplotlib, Seaborn, Scikit-learn
+> 📌 *Impact*: Equips urban planners and policymakers with data-driven insights for sustainable, resilient water infrastructure decisions
 ---
 
 #### 👔 LinkedIn-style Job Recommender System
