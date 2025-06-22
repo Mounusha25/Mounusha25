@@ -68,13 +68,13 @@ Achievements:
 > 📌 *Impact*: Equips urban planners and policymakers with data-driven insights for sustainable, resilient water infrastructure decisions
 ---
 
-#### 👔 LinkedIn-style Job Recommender System
-Engineered a **hybrid recommender engine** tailored for job seekers, blending skill-based and collaborative filtering.  
-- Extracted user skill sets and job descriptions using **TF-IDF vectorization**  
-- Used **K-Means clustering** to group similar job seekers for better collaborative matching  
-- Designed backend APIs to return ranked job matches with justification tags (skills, titles, industries)  
-- **Tech Stack**: Python, Flask, PostgreSQL, NLTK, Scikit-learn  
-> 📌 *Impact*: Offers personalized job discovery and recruiter insights based on user profiles
+#### 🏘️ Predictive Modeling & Spatial Analysis of Housing Prices – SF Bay Area
+🔍 Analyzed 20,000+ Zillow listings from the San Francisco Bay Area to predict housing prices and uncover structural, spatial, and equity-driven patterns.
+- Developed a robust **end-to-end pipeline** integrating KNN imputation, geospatial clustering (DBSCAN), and Random Forest Regression (R² = 0.64) 
+- Engineered features like proximity to tech hubs and geolocation coordinates to model geographic price variability
+- Interpreted model predictions using **SHAP**, revealing key drivers of price and uncovering regional prediction bias
+- **Tech Stack**: Python, scikit-learn, SHAP, Pandas, Matplotlib, Seaborn  
+> 📌 *Impact*: Delivers transparent, bias-aware price predictions — empowering equitable housing policies, smarter urban planning, and fair AI deployment in real estate
 
 ---
 
