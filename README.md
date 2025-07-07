@@ -118,5 +118,5 @@ Extracurriculars:
 
 ---
 
-> “Think, Create, and Innovate.” 💡  
-> Let’s build something **impactful** together!
+> “Build with purpose, think beyond the obvious” 🌍  
+> Let’s build something that **matters!!**
