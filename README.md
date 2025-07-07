@@ -111,8 +111,9 @@ Extracurriculars:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brijesh03032001&show_icons=true&count_private=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh03032001&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mounusha25&show_icons=true&count_private=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounusha25&layout=compact&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Mounusha25&theme=radical&hide_border=false" />
 </p>
 
 ---
