@@ -35,10 +35,10 @@ Strengths:
   - 🗺️ Geospatial Analysis & Mapping
   - 🧠 Predictive Modeling & Interpretability
   - 📊 Data Visualization & Storytelling
-Achievements:
-  - 💻 Solved 600+ LeetCode Problems
-  - 🏅 Top 150 out of 20,000+ on CodeChef
-  - 🔢 TA for Statistics & Probability
+Extracurriculars:
+  - 💻 Built 15+ End-to-End projects in Data Science & GIS
+  - 🧑‍🏫 Teaching Assistant at IIT Kharagpur
+  - 🌍 Environmental Engineering Research AIDE at ASU
 ``` 
 
 ---
@@ -46,11 +46,11 @@ Achievements:
 ### 🛠️ Tech Stack
 
 ```
-💻 Languages: Python | SQL | C++
+💻 Languages: Python | SQL | C++ | R
 📦 Tools: Pandas | NumPy | Sklearn | TensorFlow | PySpark 
-🧱 Spatial Analysis: ArcGIS Pro | ArcGIS Online | Raster/Vector Analysis | Model Builder
-🧰 DevOps: Docker | Jenkins | AWS | Terraform | Git
-🧠 Domains: Data Mining | ML | Computer Vision | Recommender Systems | Clustering
+🌍 Spatial Analysis: ArcGIS Pro | ArcGIS Online | Raster/Vector Analysis | Model Builder
+🧰 Data Engineering: ETL | Data Cleaning | Feature Engineering | KNN Imputation | Joblib | Pickle | Streamlit · Dash
+🧠 Domains: Data Mining | ML | Sustainability Analytics | Recommender Systems | Clustering | Geospatial ML
 ```
 
 ---
