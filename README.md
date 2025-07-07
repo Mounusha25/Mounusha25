@@ -19,7 +19,7 @@
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Graduate+Student+@+ASU;AI+%7C+ML+%7C+Geospatial+Analysis;Data+Mining+%7C+Data+Science+%7C+Data+Engineer;600%2B+LeetCode+Problems+Solved;Top+150+on+CodeChef;Think+Code+Create+Repeat+%F0%9F%94%A5">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Graduate+Student+@+ASU;AI+%7C+ML+%7C+Geospatial+Analysis;Data+Mining+%7C+Data+Science+%7C+Data+Engineering;Think+Analyze+Create+Repeat+%F0%9F%94%A5">
 </p>
 
 
