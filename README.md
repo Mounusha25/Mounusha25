@@ -78,13 +78,13 @@ Achievements:
 
 ---
 
-#### 🤖 Navigate the Maze – Autonomous Line-Following Robot
-Built a **cost-efficient maze-solving robot** using IR sensors and the **LSRB (Left-Straight-Right-Backtrack) algorithm**.  
-- Minimized hardware requirements by using only **3 IR sensors**, reducing cost for hobbyists  
-- Integrated **Arduino Pro Mini**, motor drivers, and MPU6050 to handle real-time navigation and obstacle avoidance  
-- Designed to detect paths, turns, and dead ends, then dynamically recalculate optimal route  
-- **Tech Stack**: Arduino, IR Sensor Array, L298 Motor Driver, MPU6050, Embedded C  
-> 📌 *Impact*: Educational robotics platform demonstrating pathfinding logic and microcontroller integration
+#### 📚 NextPage Guru – Personalized Book Recommender
+🔍 Parsed & distilled **1 M+ Book-Crossing ratings** to deliver **real-time book recommendations** through an interactive Streamlit UI. 
+- Filtered sparse user data, engineered a user–item rating matrix, and applied **KNN (brute-force)** to identify meaningful reading patterns 
+- Deployed the system through a dynamic Streamlit app that delivers instant, personalized book suggestions with engaging UI elements
+- he model captures user similarity without relying on book content — enabling fast, collaborative recommendations across diverse preferences  
+- **Tech Stack**: Python, scikit-learn, Streamlit, Pandas, NumPy, joblib
+> 📌 *Impact*: Enabled personalized, transparent, and scalable book recommendations — demonstrating how real-time machine learning systems can enhance user engagement, simplify decision-making, and be deployed as lightweight, interactive web apps for everyday use.
 ---
 ### 🌐 Let's Connect
 
