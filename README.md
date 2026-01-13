@@ -29,7 +29,7 @@
 ```yaml
 Name: Mounusha Ram Metti
 Role: Graduate Student @ Arizona State University
-Passion: Machine Learning, Spatial Analysis, Sustainability, Data Science
+Passion: Machine Learning, Sustainability, Data Science, Data Analytics
 Strengths:
   - 📊 Data-driven Development
   - 🗺️ Geospatial Analysis & Mapping
@@ -38,7 +38,8 @@ Strengths:
 Extracurriculars:
   - 💻 Built 15+ End-to-End projects in Data Science & GIS
   - 🧑‍🏫 Teaching Assistant at IIT Kharagpur
-  - 🌍 Environmental Engineering Research AIDE at ASU
+  - 🌍 Data Science Researcher at ASU
+  - 🧑‍🏫 Graduate Service Assistant at ASU
 ``` 
 
 ---
