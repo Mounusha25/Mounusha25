@@ -161,13 +161,36 @@ Extracurriculars:
 
 ### Data Engineering & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker" height="40"/>
-  <a href="https://spark.apache.org/"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="35"/></a>
-  <a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="35"/></a>
-  <a href="https://airflow.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="35"/></a>
-  <a href="https://mlflow.org/"><img src="./mlflow.svg" height="35"/></a>
-  <a href="https://supabase.com/"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="35"/></a>
-  <a href="https://restfulapi.net/"><img src="https://img.icons8.com/external-outline-juicy-fish/60/ffffff/external-api-coding-and-development-outline-outline-juicy-fish.png" height="35"/></a>
+  <!-- SQL -->
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Redis -->
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Docker -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Apache Spark -->
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Airflow -->
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" style="margin-right: 10px;" />
+
+<!-- MLflow -->
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" style="margin-right: 10px;" />
+
+<!-- FastAPI -->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" style="margin-right: 10px;" />
+
+<!-- AWS -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="margin-right: 10px;" />
+
+<!-- ETL Pipelines -->
+<img src="https://img.shields.io/badge/ETL%20Pipelines-6A1B9A?style=for-the-badge" style="margin-right: 10px;" />
+
+<!-- PostgreSQL -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </p>
 
 </td>
