@@ -1,4 +1,7 @@
 
+<!-- ============================================================= -->
+<!-- HEADER -->
+<!-- ============================================================= -->
 <table>
   <tr>
     <td>
@@ -19,7 +22,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Graduate+Student+@+ASU;AI+%7C+ML+%7C+Geospatial+Analysis;Data+Mining+%7C+Data+Science+%7C+Data+Engineering;Think+Analyze+Create+Repeat+%F0%9F%94%A5">
 </p>
 
+---
 
+<!-- ============================================================= -->
+<!-- CONNECT -->
+<!-- ============================================================= -->
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mounusha-ram-metti/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
+  </a>
+  <a href="https://leetcode.com/u/Mounusha_25/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40"/></a>&nbsp;&nbsp;
+  </a>
+  <a href="https://mounushametti.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/internet.png" height="40"/></a>&nbsp;&nbsp;
+  </a>
+  <a href="https://www.hackerrank.com/profile/Mounusha_Metti" target="_blank">
+    <img src="https://commons.wikimedia.org/wiki/File:HackerRank_Icon-1000px.png" height="40"/></a>&nbsp;&nbsp;
+  </a>
+</p>
+
+---
 
 ### 🔍 About Me
 
@@ -84,24 +109,7 @@ Extracurriculars:
 - **Tech Stack**: Python, scikit-learn, Streamlit, Pandas, NumPy, joblib
 > 📌 *Impact*: Enabled personalized, transparent, and scalable book recommendations — demonstrating how real-time machine learning systems can enhance user engagement, simplify decision-making, and be deployed as lightweight, interactive web apps for everyday use.
 ---
-### 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mounusha-ram-metti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;" />
-  </a>
-  <a href="https://leetcode.com/u/Mounusha_25/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Mounusha_Metti" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/wander_lust0725/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 📈 GitHub Stats
 
