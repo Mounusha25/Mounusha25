@@ -32,15 +32,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mounusha-ram-metti/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
-  </a>
   <a href="https://leetcode.com/u/Mounusha_25/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40"/></a>&nbsp;&nbsp;
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
   <a href="https://mounushametti.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/internet.png" height="40"/></a>&nbsp;&nbsp;
-  </a>
   <a href="https://www.hackerrank.com/profile/Mounusha_Metti" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:HackerRank_Icon-1000px.png" height="40"/></a>&nbsp;&nbsp;
+    <img src="https://commons.wikimedia.org/wiki/File:HackerRank_Icon-1000px.png" height="40"/>
   </a>
 </p>
 
