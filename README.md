@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <h1 align="center>
+      <h1 align="center">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
         Hey there, I'm <span style="color:#00FFFF"><b>Mounusha Ram Metti</b></span> 👩🏽‍💻
       </h1>
