@@ -6,7 +6,7 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
         Hey there, I'm <span style="color:#00FFFF"><b>Mounusha Ram Metti</b></span> 👩🏽‍💻
       </h1>
-      <p>
+      <p align="center">
         <i><b>Aspiring Data scientist by discipline, sustainability strategist by drive.<br></b> I'm a Graduate Student at ASU working at the intersection of
         <b>Machine Learning, Data Analytics, Environmental and Sustainable engineering.</b> I'm passionate about designing intelligent real-world systems and believe data is more powerful when it drives meaningful and impactful changes in our daily lives.<br>
         </i>
