@@ -31,13 +31,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mounusha-ram-metti/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;" />
+  </a>
   <a href="https://leetcode.com/u/Mounusha_25/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="margin-right: 10px;" />
+  </a>
   <a href="https://mounushametti.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/internet.png" height="40"/></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website" style="margin-right: 10px;" />
+  </a>
   <a href="https://www.hackerrank.com/profile/Mounusha_Metti" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:HackerRank_Icon-1000px.png" height="40"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right: 10px;" />
+  </a> 
+  </a>
+  <a href="https://instagram.com/wander_lust0725" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
