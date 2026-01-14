@@ -1,18 +1,15 @@
 
 <table>
   <tr>
-    <td width="250" align="center">
-      <img src="https://github.com/Mounusha25/Mounusha25/blob/main/Mounusha_1.png" width="200" style="border-radius: 15px;" alt="Brijesh Kumar"/>
-    </td>
     <td>
       <h1>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
         Hey there, I'm <span style="color:#00FFFF"><b>Mounusha Ram Metti</b></span> 👩🏽‍💻
       </h1>
       <p>
-        <i><b>Aspiring Data scientist by discipline, sustainability strategist by drive.<br></b> I'm a Graduate Student at ASU integrating
-        <b>Machine Learning, Spatial Analysis, Environmental engineering</b> to design intelligent systems for real-world impact.<br>
-        Curious and interdisciplinary at core, I believe data is most powerful when it drives change.</i>
+        <i><b>Aspiring Data scientist by discipline, sustainability strategist by drive.<br></b> I'm a Graduate Student at ASU working at the intersection of
+        <b>Machine Learning, Data Analytics, Environmental and Sustainable engineering.</b> I'm passionate about designing intelligent real-world systems and believe data is more powerful when it drives meaningful and impactful changes in our daily lives.<br>
+        </i>
       </p>
     </td>
   </tr>
@@ -98,9 +95,6 @@ Extracurriculars:
   </a>
   <a href="https://www.hackerrank.com/profile/Mounusha_Metti" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right: 10px;" />
-  </a>
-  <a href="https://medium.com/@metti.mounu" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-right: 10px;" />
   </a>
   <a href="https://www.instagram.com/wander_lust0725/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
