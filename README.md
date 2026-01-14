@@ -50,7 +50,11 @@
 
 ---
 
-### 🔍 About Me
+<!-- ============================================================= -->
+<!-- ABOUT ME -->
+<!-- ============================================================= -->
+
+<h2 align="center">About Me</h2>
 
 ```yaml
 Name: Mounusha Ram Metti
@@ -99,7 +103,7 @@ Extracurriculars:
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/></a>
   <a href="https://huggingface.co/"><img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" height="35"/></a>
   <a href="https://julialang.org/"><img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="35"/></a>
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://cdn-icons-png.flaticon.com/512/3613/3613249.png" height="35"/></a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://www.flaticon.com/free-icon/nlp_9716595?related_id=9716603&origin=search" height="35"/></a>
   <a href="https://en.wikipedia.org/wiki/Recommender_system"><img src="https://img.icons8.com/?size=512&id=87488&format=png" height="35"/></a>
 </p>
 
