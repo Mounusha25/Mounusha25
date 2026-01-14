@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="margin-right: 10px;" />
   </a>
   <a href="https://mounushametti.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Website-AC56BF?style=for-the-badge" alt="Website" style="margin-right: 10px;" />
   </a>
   <a href="https://www.hackerrank.com/profile/Mounusha_Metti" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right: 10px;" />
