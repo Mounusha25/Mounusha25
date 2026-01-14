@@ -120,12 +120,6 @@ Extracurriculars:
 <!-- Recommender Systems -->
 <img src="https://img.shields.io/badge/Recommender%20Systems-6A1B9A?style=for-the-badge" />
 
-  <!-- <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" height="40"/>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/></a>
-  <a href="https://huggingface.co/"><img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" height="35"/></a>
-  <a href="https://julialang.org/"><img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="35"/></a>
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://www.flaticon.com/free-icon/nlp_9716595?related_id=9716603&origin=search" height="35"/></a>
-  <a href="https://en.wikipedia.org/wiki/Recommender_system"><img src="https://img.icons8.com/?size=512&id=87488&format=png" height="35"/></a> -->
 </p>
 
 </td>
@@ -133,14 +127,30 @@ Extracurriculars:
 
 ### Data Analytics & Visualization
 <p align="center">
-  <a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="35"/></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35"/></a>
-  <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40"/></a>
-  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="35"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="35"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="35"/></a>
-  <a href="https://www.ibm.com/products/ilog-cplex-optimization-studio"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="40"/></a>
-  <a href="https://d3js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" height="35"/></a>
+  <!-- Tableau -->
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;" />
+
+<!-- Streamlit -->
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Matplotlib -->
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Seaborn -->
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Excel -->
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Dash -->
+<img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Plotly -->
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+
 </p>
 
 </td>
