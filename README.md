@@ -99,12 +99,33 @@ Extracurriculars:
 
 ### Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" height="40"/>
+  <!-- Python -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 10px;" />
+
+<!-- R -->
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="margin-right: 10px;" />
+
+<!-- TensorFlow -->
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="margin-right: 10px;" />
+
+<!-- PyTorch -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Hugging Face -->
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" style="margin-right: 10px;" />
+
+<!-- NLP -->
+<img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge" style="margin-right: 10px;" />
+
+<!-- Recommender Systems -->
+<img src="https://img.shields.io/badge/Recommender%20Systems-6A1B9A?style=for-the-badge" />
+
+  <!-- <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" height="40"/>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/></a>
   <a href="https://huggingface.co/"><img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" height="35"/></a>
   <a href="https://julialang.org/"><img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="35"/></a>
   <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://www.flaticon.com/free-icon/nlp_9716595?related_id=9716603&origin=search" height="35"/></a>
-  <a href="https://en.wikipedia.org/wiki/Recommender_system"><img src="https://img.icons8.com/?size=512&id=87488&format=png" height="35"/></a>
+  <a href="https://en.wikipedia.org/wiki/Recommender_system"><img src="https://img.icons8.com/?size=512&id=87488&format=png" height="35"/></a> -->
 </p>
 
 </td>
