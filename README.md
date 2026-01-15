@@ -274,7 +274,7 @@ Extracurriculars:
   <tr>
     <td width="50%" valign="top">
     <h3>🏥 Healthcare NLP Assistant</h3>
-    <b>NLP-based clinical assistant using transformers and retrieval-augmented generation to produce evidence-aware responses from de-identified medical text.<br></b>
+    NLP-based clinical assistant using transformers and retrieval-augmented generation to produce evidence-aware responses from de-identified medical text.<br>
     <b>Focus:</b> NLP, RAG, Healthcare AI, Ethics   <br> 
     <b>Tech:</b> Python, HuggingFace, spaCy, Streamlit, Docker  <br> 
     <a href="https://huggingface.co/spaces/Mounusha/AI-Medical-Assistant" target="_blank">🔗 GitHub Repo</a><br>
@@ -282,7 +282,7 @@ Extracurriculars:
   </td>
   <td width="50%" valign="top">
     <h3>📉 ChurnOpt — Decision-Optimized Churn Prediction</h3>
-    <b>Traditional churn models focus on prediction accuracy but fail to translate probabilities into profit-aware retention decisions under real-world budget constraints.<br></b>
+    Traditional churn models focus on prediction accuracy but fail to translate probabilities into profit-aware retention decisions under real-world budget constraints.<br>
     <b>Focus:</b> ML Decision Systems, Profit Optimization   <br> 
     <b>Tech:</b> Python, scikit-learn, Pandas, Parquet  <br> 
     <a href="https://github.com/Mounusha25/churnopt" target="_blank">🔗 GitHub Repo</a><br>
@@ -291,7 +291,7 @@ Extracurriculars:
 <tr>
   <td width="50%" valign="top">
     <h3>👁️ OptiVision — Edge Inference System</h3>
-    <b>Real-time object detection inference service optimized for edge deployment with temporal activity summaries.<br></b>
+    Real-time object detection inference service optimized for edge deployment with temporal activity summaries.<br>
     <b>Focus:</b> Edge AI, Computer Vision, ML Systems  <br> 
     <b>Tech:</b> FastAPI, YOLOv8, ONNX Runtime, Docker <br> 
     <a href="https://github.com/Mounusha25/Optivision" target="_blank">🔗 GitHub Repo</a><br>
@@ -299,7 +299,7 @@ Extracurriculars:
   </td>
   <td width="50%" valign="top">
     <h3>📚 RAG Knowledge Engine</h3>
-    <b>Retrieval-augmented generation system for grounded, context-aware question answering using external knowledge.<br></b>
+    Retrieval-augmented generation system for grounded, context-aware question answering using external knowledge.<br>
     <b>Focus:</b> RAG, LLMs, Semantic Search   <br> 
     <b>Tech:</b> LangChain, ChromaDB, LLaMA2, AWS  <br> 
     <a href="https://github.com/Mounusha25/Knowledge_management_system" target="_blank">🔗 GitHub Repo</a><br>
@@ -307,35 +307,6 @@ Extracurriculars:
 </tr>
 </table>
 </div>
-
-#### 💧 Smart Water Infrastructure Optimization
-🔍 Designed a multi-objective optimization model to guide long-term water supply planning under future demand scenarios (2040 and 2070).  
-- Applied **NSGA-II** Genetic Algorithm to evaluate 7 real-world water strategies (e.g., desalination, conservation, reuse)
-- Optimized trade-offs across cost, resilience, and feasibility to generate Pareto-optimal solutions
-- Visualized strategy performance using comparative bar charts, correlation heatmaps, and Pareto frontiers
-- Delivered interpretable outputs to support infrastructure planning under climate uncertainty
-- **Tech Stack**: Python, DEAP, Pandas, Matplotlib, Seaborn, Scikit-learn
-> 📌 *Impact*: Equips urban planners and policymakers with data-driven insights for sustainable, resilient water infrastructure decisions
----
-
-#### 🏘️ Predictive Modeling & Spatial Analysis of Housing Prices – SF Bay Area
-🔍 Analyzed 20,000+ Zillow listings from the San Francisco Bay Area to predict housing prices and uncover structural, spatial, and equity-driven patterns.
-- Developed a robust **end-to-end pipeline** integrating KNN imputation, geospatial clustering (DBSCAN), and Random Forest Regression (R² = 0.64) 
-- Engineered features like proximity to tech hubs and geolocation coordinates to model geographic price variability
-- Interpreted model predictions using **SHAP**, revealing key drivers of price and uncovering regional prediction bias
-- **Tech Stack**: Python, scikit-learn, SHAP, Pandas, Matplotlib, Seaborn  
-> 📌 *Impact*: Delivers transparent, bias-aware price predictions — empowering equitable housing policies, smarter urban planning, and fair AI deployment in real estate
-
----
-
-#### 📚 NextPage Guru – Personalized Book Recommender
-🔍 Parsed & distilled **1 M+ Book-Crossing ratings** to deliver **real-time book recommendations** through an interactive Streamlit UI. 
-- Filtered sparse user data, engineered a user–item rating matrix, and applied **KNN (brute-force)** to identify meaningful reading patterns 
-- Deployed the system through a dynamic Streamlit app that delivers instant, personalized book suggestions with engaging UI elements
-- he model captures user similarity without relying on book content — enabling fast, collaborative recommendations across diverse preferences  
-- **Tech Stack**: Python, scikit-learn, Streamlit, Pandas, NumPy, joblib
-> 📌 *Impact*: Enabled personalized, transparent, and scalable book recommendations — demonstrating how real-time machine learning systems can enhance user engagement, simplify decision-making, and be deployed as lightweight, interactive web apps for everyday use.
----
 
 
 ### 📈 GitHub Stats
