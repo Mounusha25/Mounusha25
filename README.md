@@ -222,13 +222,48 @@ Extracurriculars:
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### Development Tools & Automation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux" height="40"/>
-  <a href="https://n8n.io/"><img src="./n8n.png" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Continuous_integration"><img src="https://img.icons8.com/?size=512&id=51832&format=png" height="35"/></a>
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 10px;" />
+
+<!-- GitHub -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Linux -->
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-right: 10px;" />
+
+<!-- n8n -->
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Sustainability and Environmental
+<p align="center">
+  <!-- ArcGIS Pro -->
+<img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7BE5?style=for-the-badge&logo=arcgis&logoColor=white" style="margin-right: 10px;" />
+
+<!-- QGIS -->
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Life Cycle Assessment (LCA) -->
+<img src="https://img.shields.io/badge/LCA-4CAF50?style=for-the-badge" style="margin-right: 10px;" />
+
+<!-- Google Earth Engine -->
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Raster / Vector Analysis -->
+<img src="https://img.shields.io/badge/Raster%20%2F%20Vector%20Analysis-6A1B9A?style=for-the-badge" style="margin-right: 10px;" />
+
+<!-- Model Builder -->
+<img src="https://img.shields.io/badge/Model%20Builder-FF7043?style=for-the-badge" />
+
 </p>
 
 </td>
