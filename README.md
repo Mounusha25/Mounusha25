@@ -274,8 +274,13 @@ Extracurriculars:
   <tr>
     <td width="50%" valign="top">
     <h3>🏥 Healthcare NLP Assistant</h3>
-    <p align="center"> <img src="healthcarenlp.png" height="300" width="700"/> </p>
-
+    <p align="center"> <img src="healthcarenlp.png" height="150" width="500"/> </p>
+    NLP-based clinical assistant using transformers and retrieval-augmented generation to produce evidence-aware responses from de-identified medical text.
+    Focus: NLP, RAG, Healthcare AI, Ethics    
+    Tech: Python, HuggingFace, spaCy, Streamlit, Docker   
+    <a href="https://huggingface.co/spaces/Mounusha/AI-Medical-Assistant" target="_blank">🔗 GitHub Repo</a>
+    <a href="https://github.com/Mounusha25/AI_Medical_Chatbot">🌐 Live Demo</a>
+    
 
 #### 💧 Smart Water Infrastructure Optimization
 🔍 Designed a multi-objective optimization model to guide long-term water supply planning under future demand scenarios (2040 and 2070).  
