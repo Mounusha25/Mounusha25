@@ -308,6 +308,8 @@ Extracurriculars:
 </table>
 </div>
 
+---
+
 <!-- ============================================================= -->
 <!-- GITHUB STATS -->
 <!-- ============================================================= -->
@@ -320,11 +322,7 @@ Extracurriculars:
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=github-dark&hide_border=true&area=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=github&hide_border=true&area=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=minimal&hide_border=true&area=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=dracula&hide_border=true&area=true" />
-
 
 
 </td>
@@ -332,13 +330,6 @@ Extracurriculars:
 </table>
 </div>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounusha25&show_icons=true&count_private=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounusha25&layout=compact&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Mounusha25&theme=radical&hide_border=false" />
-</p>
 
 ---
 
