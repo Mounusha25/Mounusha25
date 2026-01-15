@@ -274,12 +274,39 @@ Extracurriculars:
   <tr>
     <td width="50%" valign="top">
     <h3>🏥 Healthcare NLP Assistant</h3>
-    NLP-based clinical assistant using transformers and retrieval-augmented generation to produce evidence-aware responses from de-identified medical text.<br>
-    Focus: NLP, RAG, Healthcare AI, Ethics   <br> 
-    Tech: Python, HuggingFace, spaCy, Streamlit, Docker  <br> 
-    <a href="https://huggingface.co/spaces/Mounusha/AI-Medical-Assistant" target="_blank">🔗 GitHub Repo</a>
+    <b>NLP-based clinical assistant using transformers and retrieval-augmented generation to produce evidence-aware responses from de-identified medical text.<br></b>
+    <b>Focus:</b> NLP, RAG, Healthcare AI, Ethics   <br> 
+    <b>Tech:</b> Python, HuggingFace, spaCy, Streamlit, Docker  <br> 
+    <a href="https://huggingface.co/spaces/Mounusha/AI-Medical-Assistant" target="_blank">🔗 GitHub Repo</a><br>
     <a href="https://github.com/Mounusha25/AI_Medical_Chatbot">🌐 Live Demo</a>
-    
+  </td>
+  <td width="50%" valign="top">
+    <h3>📉 ChurnOpt — Decision-Optimized Churn Prediction</h3>
+    <b>Traditional churn models focus on prediction accuracy but fail to translate probabilities into profit-aware retention decisions under real-world budget constraints.<br></b>
+    <b>Focus:</b> ML Decision Systems, Profit Optimization   <br> 
+    <b>Tech:</b> Python, scikit-learn, Pandas, Parquet  <br> 
+    <a href="https://github.com/Mounusha25/churnopt" target="_blank">🔗 GitHub Repo</a><br>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>👁️ OptiVision — Edge Inference System</h3>
+    <b>Real-time object detection inference service optimized for edge deployment with temporal activity summaries.<br></b>
+    <b>Focus:</b> Edge AI, Computer Vision, ML Systems  <br> 
+    <b>Tech:</b> FastAPI, YOLOv8, ONNX Runtime, Docker <br> 
+    <a href="https://github.com/Mounusha25/Optivision" target="_blank">🔗 GitHub Repo</a><br>
+    <a href="https://optivision-edge-inference-system.onrender.com">🌐 Live Demo</a>
+  </td>
+  <td width="50%" valign="top">
+    <h3>📚 RAG Knowledge Engine</h3>
+    <b>Retrieval-augmented generation system for grounded, context-aware question answering using external knowledge.<br></b>
+    <b>Focus:</b> RAG, LLMs, Semantic Search   <br> 
+    <b>Tech:</b> LangChain, ChromaDB, LLaMA2, AWS  <br> 
+    <a href="https://github.com/Mounusha25/Knowledge_management_system" target="_blank">🔗 GitHub Repo</a><br>
+  </td>
+</tr>
+</table>
+</div>
 
 #### 💧 Smart Water Infrastructure Optimization
 🔍 Designed a multi-objective optimization model to guide long-term water supply planning under future demand scenarios (2040 and 2070).  
