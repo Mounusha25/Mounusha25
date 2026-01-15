@@ -308,6 +308,25 @@ Extracurriculars:
 </table>
 </div>
 
+<!-- ============================================================= -->
+<!-- GITHUB STATS -->
+<!-- ============================================================= -->
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=github-dark&hide_border=true&area=true" />
+
+
+</td>
+</tr>
+</table>
+</div>
 
 ### 📈 GitHub Stats
 
