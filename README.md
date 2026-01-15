@@ -164,17 +164,11 @@ Extracurriculars:
   <!-- SQL -->
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-right: 10px;" />
 
-<!-- Redis -->
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" style="margin-right: 10px;" />
-
 <!-- Docker -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin-right: 10px;" />
 
 <!-- Apache Spark -->
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" style="margin-right: 10px;" />
-
-<!-- Airflow -->
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" style="margin-right: 10px;" />
 
 <!-- MLflow -->
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" style="margin-right: 10px;" />
@@ -198,7 +192,30 @@ Extracurriculars:
 
 ### Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,vercel,gcp" height="40"/>
+  <!-- Firebase -->
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="margin-right: 10px;" />
+
+<!-- MongoDB -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Google Cloud Platform -->
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" style="margin-right: 10px;" />
+
+<!-- Next.js -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="margin-right: 10px;" />
+
+<!-- CSS -->
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-right: 10px;" />
+
+<!-- React -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin-right: 10px;" />
+
+<!-- Vercel -->
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="margin-right: 10px;" />
+
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 10px;" />
+
 </p>
 
 </td>
