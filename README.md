@@ -321,6 +321,10 @@ Extracurriculars:
 <td colspan="2" align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=github-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=github&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=minimal&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=dracula&hide_border=true&area=true" />
+
 
 
 </td>
