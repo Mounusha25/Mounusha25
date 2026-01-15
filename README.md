@@ -27,7 +27,7 @@
 <!-- ============================================================= -->
 <!-- CONNECT -->
 <!-- ============================================================= -->
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mounusha-ram-metti/" target="_blank">
@@ -74,22 +74,10 @@ Extracurriculars:
 
 ---
 
-### 🛠️ Tech Stack
-
-```
-💻 Languages: Python | SQL | C++ | R
-📦 Tools: Pandas | NumPy | Sklearn | TensorFlow | PySpark 
-🌍 Spatial Analysis: ArcGIS Pro | ArcGIS Online | Raster/Vector Analysis | Model Builder
-🧰 Data Engineering: ETL | Data Cleaning | Feature Engineering | KNN Imputation | Joblib | Pickle | Streamlit · Dash
-🧠 Domains: Data Mining | ML | Sustainability Analytics | Recommender Systems | Clustering | Geospatial ML
-```
-
----
-
 <!-- ============================================================= -->
 <!-- LANGUAGES & TOOLS -->
 <!-- ============================================================= -->
-<h2 align="center">Languages & Tools</h2>
+<h2 align="center">🧠 Languages & Tools</h2>
 
 <div align="center">
 
@@ -274,7 +262,19 @@ Extracurriculars:
 
 ---
 
-### 🚀 Notable Projects
+<!-- ============================================================= -->
+<!-- FEATURED PROJECTS -->
+<!-- ============================================================= -->
+
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+    <h3>🏥 Healthcare NLP Assistant</h3>
+    <p align="center"> <img src="images/projects/healthcarenlp.png" width="700"/> </p>
 
 
 #### 💧 Smart Water Infrastructure Optimization
