@@ -274,7 +274,7 @@ Extracurriculars:
   <tr>
     <td width="50%" valign="top">
     <h3>🏥 Healthcare NLP Assistant</h3>
-    <p align="center"> <img src="images/projects/healthcarenlp.png" width="700"/> </p>
+    <p align="center"> <img src="healthcarenlp.png" width="700"/> </p>
 
 
 #### 💧 Smart Water Infrastructure Optimization
