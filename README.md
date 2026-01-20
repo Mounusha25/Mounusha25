@@ -313,25 +313,37 @@ Extracurriculars:
 <!-- ============================================================= -->
 <!-- GITHUB STATS -->
 <!-- ============================================================= -->
+
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
 <table>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=react-dark&hide_border=true"
+        alt="Contribution Graph"
+      />
+    </td>
+  </tr>
 
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounusha25&theme=dracula&hide_border=true&area=true" />
-
-
-</td>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounusha25&show_icons=true&theme=github-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounusha25&layout=compact&theme=github-dark&hide_border=true)
-
-</tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Mounusha25&show_icons=true&theme=github-dark&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounusha25&layout=compact&theme=github-dark&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
 </table>
+
 </div>
 
 
