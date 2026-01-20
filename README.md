@@ -331,13 +331,13 @@ Extracurriculars:
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Mounusha25&show_icons=true&theme=github-dark&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=Mounusha25&show_icons=true&theme=github dark&hide_border=true&cache_seconds=21600"
         alt="GitHub Stats"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounusha25&layout=compact&theme=github-dark&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounusha25&layout=compact&theme=github-dark&hide_border=true&cache_seconds=21600" 
         alt="Top Languages"
       />
     </td>
