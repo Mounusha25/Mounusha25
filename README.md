@@ -326,6 +326,10 @@ Extracurriculars:
 
 
 </td>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounusha25&show_icons=true&theme=github-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounusha25&layout=compact&theme=github-dark&hide_border=true)
+
 </tr>
 </table>
 </div>
