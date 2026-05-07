@@ -2,7 +2,13 @@
 <!-- HEADER BANNER -->
 <!-- ============================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Mounusha%20Ram%20Metti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20ML%20Engineer%20%7C%20Sustainability-Driven%2C%20Impact-Focused&descSize=18&descAlignY=58" width="100%" />
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+    &nbsp;Mounusha Ram Metti
+  </h1>
+  <h3>Data Scientist &amp; ML Engineer &nbsp;|&nbsp; Sustainability-Driven, Impact-Focused</h3>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Graduate+Student+%40+ASU+%7C+MS+Data+Science;Machine+Learning+%7C+Data+Analytics+%7C+NLP;Geospatial+AI+%7C+Sustainable+Engineering;Building+Intelligent+Systems+That+Matter+%F0%9F%94%A5" alt="Typing SVG" />
@@ -277,51 +283,9 @@ Experience & Highlights:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mounusha25&show_icons=true&theme=github-dark&hide_border=true&cache_seconds=21600&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounusha25&layout=compact&theme=github-dark&hide_border=true&cache_seconds=21600" height="165" alt="Top Languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Mounusha25&theme=github-dark&hide_border=true" width="49%" alt="GitHub Streak" />
 
 <br/><br/>
-
-</div>
-
----
-
-<!-- ============================================================= -->
-<!-- IN MY WORLD -->
-<!-- ============================================================= -->
-
-<h2 align="center">🌍 In My World</h2>
-
-<div align="center">
-
-```python
-class MounushaRamMetti:
-
-    def __init__(self):
-        self.pronouns    = "she/her"
-        self.location    = "Tempe, Arizona 🌵"
-        self.education   = "MS Data Science @ ASU (Dec 2026)"
-        self.open_to     = ["Internship — immediately", "Full-time — Dec 2026"]
-
-    def current_obsession(self):
-        return "Teaching machines to watch videos and answer questions about them 🎬"
-
-    def fun_facts(self):
-        return [
-            "I once mapped air quality data across 3 cities with Python & a coffee ☕",
-            "Sustainability + AI is my superpower — smarter data for a greener planet 🌱",
-            "I believe every dataset has a story; my job is to find the plot twist 📊",
-            "From GIS maps to LLMs — I connect dots others overlook 🗺️",
-        ]
-
-    def ask_me_about(self):
-        return ["ML pipelines", "RAG systems", "geospatial analysis", "data storytelling"]
-```
 
 </div>
 
