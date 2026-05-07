@@ -83,73 +83,6 @@ Experience & Highlights:
 ---
 
 <!-- ============================================================= -->
-<!-- FEATURED PROJECTS -->
-<!-- ============================================================= -->
-
-<h2 align="center">🗂️ Featured Projects</h2>
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Healthcare NLP Assistant &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Deployed NLP-powered clinical assistant using RAG and transformer models on de-identified medical text — improving evidence grounding and reducing hallucinations for patient query responses.</p>
-      <p>
-        <b>Focus:</b> NLP · RAG · Healthcare AI · Ethics<br>
-        <b>Tech:</b> Python · HuggingFace · spaCy · Streamlit · Docker
-      </p>
-      <a href="https://github.com/Mounusha25/AI_Medical_Chatbot" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>&nbsp;
-      <a href="https://huggingface.co/spaces/Mounusha/AI-Medical-Assistant" target="_blank">
-        <img src="https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📉 ChurnOpt &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Bridges the gap between ML prediction accuracy and real-world retention ROI — translating churn probabilities into profit-aware decisions under actual budget constraints.</p>
-      <p>
-        <b>Focus:</b> ML Decision Systems · Profit Optimization<br>
-        <b>Tech:</b> Python · scikit-learn · Pandas · Parquet
-      </p>
-      <a href="https://github.com/Mounusha25/churnopt" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👁️ OptiVision — Edge Inference &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Production-ready real-time object detection service optimized for edge deployment — serving YOLOv8 inference via FastAPI with ONNX-accelerated latency and temporal activity summaries.</p>
-      <p>
-        <b>Focus:</b> Edge AI · Computer Vision · ML Systems<br>
-        <b>Tech:</b> FastAPI · YOLOv8 · ONNX Runtime · Docker
-      </p>
-      <a href="https://github.com/Mounusha25/Optivision" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>&nbsp;
-      <a href="https://optivision-edge-inference-system.onrender.com" target="_blank">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=render&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 RAG Knowledge Engine &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Semantic retrieval pipeline that grounds LLM responses in external knowledge — enabling context-aware Q&amp;A over domain-specific document corpora with significantly reduced hallucinations.</p>
-      <p>
-        <b>Focus:</b> RAG · LLMs · Semantic Search<br>
-        <b>Tech:</b> LangChain · ChromaDB · LLaMA2 · AWS
-      </p>
-      <a href="https://github.com/Mounusha25/Knowledge_management_system" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-<!-- ============================================================= -->
 <!-- LANGUAGES & TOOLS -->
 <!-- ============================================================= -->
 
@@ -256,6 +189,74 @@ Experience & Highlights:
 </div>
 
 ---
+
+<!-- ============================================================= -->
+<!-- FEATURED PROJECTS -->
+<!-- ============================================================= -->
+
+<h2 align="center">🗂️ Featured Projects</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Healthcare NLP Assistant &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Deployed NLP-powered clinical assistant using RAG and transformer models on de-identified medical text — improving evidence grounding and reducing hallucinations for patient query responses.</p>
+      <p>
+        <b>Focus:</b> NLP · RAG · Healthcare AI · Ethics<br>
+        <b>Tech:</b> Python · HuggingFace · spaCy · Streamlit · Docker
+      </p>
+      <a href="https://github.com/Mounusha25/AI_Medical_Chatbot" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>&nbsp;
+      <a href="https://huggingface.co/spaces/Mounusha/AI-Medical-Assistant" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📉 ChurnOpt &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Bridges the gap between ML prediction accuracy and real-world retention ROI — translating churn probabilities into profit-aware decisions under actual budget constraints.</p>
+      <p>
+        <b>Focus:</b> ML Decision Systems · Profit Optimization<br>
+        <b>Tech:</b> Python · scikit-learn · Pandas · Parquet
+      </p>
+      <a href="https://github.com/Mounusha25/churnopt" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ OptiVision — Edge Inference &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Production-ready real-time object detection service optimized for edge deployment — serving YOLOv8 inference via FastAPI with ONNX-accelerated latency and temporal activity summaries.</p>
+      <p>
+        <b>Focus:</b> Edge AI · Computer Vision · ML Systems<br>
+        <b>Tech:</b> FastAPI · YOLOv8 · ONNX Runtime · Docker
+      </p>
+      <a href="https://github.com/Mounusha25/Optivision" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>&nbsp;
+      <a href="https://optivision-edge-inference-system.onrender.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=render&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 RAG Knowledge Engine &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Semantic retrieval pipeline that grounds LLM responses in external knowledge — enabling context-aware Q&amp;A over domain-specific document corpora with significantly reduced hallucinations.</p>
+      <p>
+        <b>Focus:</b> RAG · LLMs · Semantic Search<br>
+        <b>Tech:</b> LangChain · ChromaDB · LLaMA2 · AWS
+      </p>
+      <a href="https://github.com/Mounusha25/Knowledge_management_system" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 
 <!-- ============================================================= -->
 <!-- GITHUB ACTIVITY -->
