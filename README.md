@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <!-- ============================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mounusha%20Ram%20Metti&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%26%20ML%20Engineer%20%E2%80%94%20Sustainability-Driven%2C%20Impact-Focused&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Mounusha%20Ram%20Metti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20ML%20Engineer%20%7C%20Sustainability-Driven%2C%20Impact-Focused&descSize=18&descAlignY=58" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Graduate+Student+%40+ASU+%7C+MS+Data+Science;Machine+Learning+%7C+Data+Analytics+%7C+NLP;Geospatial+AI+%7C+Sustainable+Engineering;Building+Intelligent+Systems+That+Matter+%F0%9F%94%A5" alt="Typing SVG" />
@@ -287,13 +287,43 @@ Experience & Highlights:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mounusha25&theme=nord&column=6&no-frame=true&margin-w=8" width="90%" alt="GitHub Trophies" />
+</div>
+
+---
+
+<!-- ============================================================= -->
+<!-- CERTIFICATIONS & HIGHLIGHTS -->
+<!-- ============================================================= -->
+
+<h2 align="center">🏅 Certifications & Highlights</h2>
+
+<div align="center">
+
+| Credential | Issuer | Status |
+|:---|:---|:---:|
+| 🐍 Python for Data Science & AI | IBM / Coursera | ✅ Certified |
+| 📊 Data Analysis with Python | IBM / Coursera | ✅ Certified |
+| 🧠 Machine Learning Specialization | Andrew Ng / Coursera | ✅ Certified |
+| ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Certified |
+| 🗺️ ArcGIS & GIS Analysis | Esri | ✅ Certified |
+| 🏆 HackerRank SQL (Advanced) | HackerRank | ✅ Certified |
+
+<br/>
+
+<b>💡 Key Stats</b>
+
+<br/>
+
+![15+ Projects](https://img.shields.io/badge/15%2B%20Projects-Built%20End--to--End-8B5CF6?style=for-the-badge)
+![2 Live Demos](https://img.shields.io/badge/2%20Live%20Deployments-Production-22C55E?style=for-the-badge)
+![IIT Kharagpur](https://img.shields.io/badge/Teaching%20Assistant-IIT%20Kharagpur-F59E0B?style=for-the-badge)
+![ASU Researcher](https://img.shields.io/badge/Researcher-Arizona%20State%20University-1D4ED8?style=for-the-badge)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%" />
 
 <p align="center">
   <i>"Let's connect if you're building at the intersection of <b>data, AI, and sustainability</b>." 🌍</i><br>
