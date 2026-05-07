@@ -77,6 +77,7 @@ Experience & Highlights:
   - 🧑‍🏫 Teaching Assistant — IIT Kharagpur
   - 🌍 Data Science Researcher — Arizona State University
   - 🎓 Graduate Service Assistant — Arizona State University
+  - ✊🏼 Graduate Assembly Member - Arizona State University
 ```
 
 ---
