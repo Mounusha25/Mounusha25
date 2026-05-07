@@ -19,7 +19,7 @@
 <p align="center">
   <i>
     Graduate Student at <b>Arizona State University</b> working at the intersection of<br>
-    <b>Machine Learning · Data Analytics · Environmental & Sustainable Engineering</b><br>
+    <b>Machine Learning · Data Analytics · Environmental &amp; Sustainable Engineering</b><br>
     I design intelligent real-world systems and believe data is most powerful when it drives <b>meaningful, measurable change</b>.
   </i>
 </p>
@@ -292,33 +292,53 @@ Experience & Highlights:
 ---
 
 <!-- ============================================================= -->
-<!-- CERTIFICATIONS & HIGHLIGHTS -->
+<!-- IN MY WORLD -->
 <!-- ============================================================= -->
 
-<h2 align="center">🏅 Certifications & Highlights</h2>
+<h2 align="center">🌍 In My World</h2>
 
 <div align="center">
 
-| Credential | Issuer | Status |
-|:---|:---|:---:|
-| 🐍 Python for Data Science & AI | IBM / Coursera | ✅ Certified |
-| 📊 Data Analysis with Python | IBM / Coursera | ✅ Certified |
-| 🧠 Machine Learning Specialization | Andrew Ng / Coursera | ✅ Certified |
-| ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Certified |
-| 🗺️ ArcGIS & GIS Analysis | Esri | ✅ Certified |
-| 🏆 HackerRank SQL (Advanced) | HackerRank | ✅ Certified |
+```python
+class MounushaRamMetti:
 
-<br/>
+    def __init__(self):
+        self.pronouns    = "she/her"
+        self.location    = "Tempe, Arizona 🌵"
+        self.education   = "MS Data Science @ ASU (Dec 2026)"
+        self.open_to     = ["Internship — immediately", "Full-time — Dec 2026"]
 
-<b>💡 Key Stats</b>
+    def current_obsession(self):
+        return "Teaching machines to watch videos and answer questions about them 🎬"
 
-<br/>
+    def fun_facts(self):
+        return [
+            "I once mapped air quality data across 3 cities with Python & a coffee ☕",
+            "Sustainability + AI is my superpower — smarter data for a greener planet 🌱",
+            "I believe every dataset has a story; my job is to find the plot twist 📊",
+            "From GIS maps to LLMs — I connect dots others overlook 🗺️",
+        ]
 
-![15+ Projects](https://img.shields.io/badge/15%2B%20Projects-Built%20End--to--End-8B5CF6?style=for-the-badge)
-![2 Live Demos](https://img.shields.io/badge/2%20Live%20Deployments-Production-22C55E?style=for-the-badge)
-![IIT Kharagpur](https://img.shields.io/badge/Teaching%20Assistant-IIT%20Kharagpur-F59E0B?style=for-the-badge)
-![ASU Researcher](https://img.shields.io/badge/Researcher-Arizona%20State%20University-1D4ED8?style=for-the-badge)
+    def ask_me_about(self):
+        return ["ML pipelines", "RAG systems", "geospatial analysis", "data storytelling"]
+```
 
+</div>
+
+---
+
+<!-- ============================================================= -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ============================================================= -->
+
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
