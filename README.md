@@ -1,53 +1,37 @@
 <!-- ============================================================= -->
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <!-- ============================================================= -->
 
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-    &nbsp;Mounusha Ram Metti
-  </h1>
-  <h3>Data Scientist &amp; ML Engineer &nbsp;|&nbsp; Sustainability-Driven, Impact-Focused</h3>
+
+<pre>
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ░█▄░▄█ ░█▀▀█ ░█─░█ ░█▄─░█ ░█─░█ ░█▀▀▀█ ░█─░█ ─█▀▀█                 ║
+║    ░█░█░█ ░█░░░ ░█─░█ ░█░█░█ ░█─░█ ─▀▀▀▄▄ ░█▀▀█ ░█▄▄█                 ║
+║    ░█──░█ ░█▄▄█ ─▀▄▄▀ ░█──▀█ ─▀▄▄▀ ░█▄▄▄█ ░█─░█ ░█─░█                 ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   > Role    :  Data Scientist & ML Engineer                              ║
+║   > Degree  :  MS Data Science (Sustainable Eng.) @ ASU — Dec 2026      ║
+║   > Focus   :  ML · RAG · Geospatial AI · Sustainable Systems           ║
+║   > Building:  Video RAG — multimodal retrieval over video corpora       ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   🟢  Internship / Co-op  →  Available Immediately                       ║
+║   🟡  Full-time           →  Available December 2026                     ║
+║   📍  Tempe, AZ · Open to Remote & Relocation                            ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+</pre>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=860&lines=Machine+Learning+%7C+RAG+Systems+%7C+NLP;Geospatial+AI+%7C+Sustainable+Engineering;15%2B+End-to-End+Projects+%7C+2+Live+Deployments;Teaching+data+to+tell+stories+that+matter+%F0%9F%8C%8D" alt="Typing SVG" />
+</p>
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Graduate+Student+%40+ASU+%7C+MS+Data+Science;Machine+Learning+%7C+Data+Analytics+%7C+NLP;Geospatial+AI+%7C+Sustainable+Engineering;Building+Intelligent+Systems+That+Matter+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
-
----
-
-<!-- ============================================================= -->
-<!-- ABOUT ME -->
-<!-- ============================================================= -->
-
-<h2 align="center">✨ About Me</h2>
-
-<p align="center">
-  <i>
-    Graduate Student at <b>Arizona State University</b> working at the intersection of<br>
-    <b>Machine Learning · Data Analytics · Environmental &amp; Sustainable Engineering</b><br>
-    I design intelligent real-world systems and believe data is most powerful when it drives <b>meaningful, measurable change</b>.
-  </i>
-</p>
-
-```yaml
-Name:       Mounusha Ram Metti
-Degree:     MS in Data Science (Sustainable Engineering) @ Arizona State University
-Graduating: December 2026
-Passion:    Machine Learning, Sustainability, Data Science, Data Analytics
-
-Strengths:
-  - 🔬 Data-driven Development & Experimentation
-  - 🗺️  Geospatial Analysis & Mapping
-  - 🧠 Predictive Modeling & Interpretability
-  - 📊 Data Visualization & Storytelling
-
-Experience & Highlights:
-  - 💻 Built 15+ End-to-End Projects in Data Science & GIS
-  - 🧑‍🏫 Teaching Assistant — IIT Kharagpur
-  - 🌍 Data Science Researcher — Arizona State University
-  - 🎓 Graduate Service Assistant — Arizona State University
-```
 
 ---
 
@@ -78,21 +62,29 @@ Experience & Highlights:
 ---
 
 <!-- ============================================================= -->
-<!-- CURRENTLY WORKING ON -->
+<!-- ABOUT ME -->
 <!-- ============================================================= -->
 
-<h2 align="center">🚀 Currently</h2>
+<h2 align="center">✨ About Me</h2>
 
-<div align="center">
+```yaml
+Name:       Mounusha Ram Metti
+Degree:     MS in Data Science (Sustainable Engineering) @ Arizona State University
+Graduating: December 2026
+Passion:    Machine Learning, Sustainability, Data Science, Data Analytics
 
-| | |
-|---|---|
-| 🔨 **Building** | **Video RAG** — Retrieval-Augmented Generation over video corpora; enabling semantic search and context-aware Q&A on video content, extending RAG beyond documents into multimodal knowledge retrieval |
-| 📖 **Learning** | Agentic AI Workflows · MLOps best practices · Claude Code |
-| 💼 **Internship / Co-op** | 🟢 Available **immediately** |
-| 🎯 **Full-time** | 🟡 Available **December 2026** |
+Strengths:
+  - 🔬 Data-driven Development & Experimentation
+  - 🗺️  Geospatial Analysis & Mapping
+  - 🧠 Predictive Modeling & Interpretability
+  - 📊 Data Visualization & Storytelling
 
-</div>
+Experience & Highlights:
+  - 💻 Built 15+ End-to-End Projects in Data Science & GIS
+  - 🧑‍🏫 Teaching Assistant — IIT Kharagpur
+  - 🌍 Data Science Researcher — Arizona State University
+  - 🎓 Graduate Service Assistant — Arizona State University
+```
 
 ---
 
@@ -148,7 +140,7 @@ Experience & Highlights:
     </td>
     <td width="50%" valign="top">
       <h3>📚 RAG Knowledge Engine &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Semantic retrieval pipeline that grounds LLM responses in external knowledge — enabling context-aware Q&A over domain-specific document corpora with significantly reduced hallucinations.</p>
+      <p>Semantic retrieval pipeline that grounds LLM responses in external knowledge — enabling context-aware Q&amp;A over domain-specific document corpora with significantly reduced hallucinations.</p>
       <p>
         <b>Focus:</b> RAG · LLMs · Semantic Search<br>
         <b>Tech:</b> LangChain · ChromaDB · LLaMA2 · AWS
@@ -167,14 +159,14 @@ Experience & Highlights:
 <!-- LANGUAGES & TOOLS -->
 <!-- ============================================================= -->
 
-<h2 align="center">🧠 Languages & Tools</h2>
+<h2 align="center">🧠 Languages &amp; Tools</h2>
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Data Science & Machine Learning**
+**Data Science &amp; Machine Learning**
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -190,7 +182,7 @@ Experience & Highlights:
 </td>
 <td width="50%" valign="top">
 
-**Data Analytics & Visualization**
+**Data Analytics &amp; Visualization**
 
 <p>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
@@ -208,7 +200,7 @@ Experience & Highlights:
 <tr>
 <td width="50%" valign="top">
 
-**Data Engineering & Infrastructure**
+**Data Engineering &amp; Infrastructure**
 
 <p>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -224,7 +216,7 @@ Experience & Highlights:
 </td>
 <td width="50%" valign="top">
 
-**Cloud & Full Stack**
+**Cloud &amp; Full Stack**
 
 <p>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -241,7 +233,7 @@ Experience & Highlights:
 <tr>
 <td width="50%" valign="top">
 
-**Development Tools & Automation**
+**Development Tools &amp; Automation**
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -253,7 +245,7 @@ Experience & Highlights:
 </td>
 <td width="50%" valign="top">
 
-**Sustainability & Environmental**
+**Sustainability &amp; Environmental**
 
 <p>
 <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7BE5?style=flat-square" />
@@ -272,10 +264,10 @@ Experience & Highlights:
 ---
 
 <!-- ============================================================= -->
-<!-- GITHUB STATS -->
+<!-- GITHUB ACTIVITY -->
 <!-- ============================================================= -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
 
@@ -287,27 +279,15 @@ Experience & Highlights:
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
+
 </div>
 
 ---
-
-<!-- ============================================================= -->
-<!-- CONTRIBUTION SNAKE -->
-<!-- ============================================================= -->
-
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Mounusha25/Mounusha25/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%" />
 
 <p align="center">
   <i>"Let's connect if you're building at the intersection of <b>data, AI, and sustainability</b>." 🌍</i><br>
