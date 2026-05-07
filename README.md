@@ -3,24 +3,7 @@
 <!-- ============================================================= -->
 
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
-    &nbsp;Mounusha Ram Metti
-  </h1>
-  <h3>Data Scientist &amp; ML Engineer • AI for Real-World Impact</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/MS%20Data%20Science-ASU%20%7C%20Dec%202026-0A66C2?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Focus-ML%20%7C%20RAG%20%7C%20Geospatial%20AI-1F8B4C?style=for-the-badge" />
-  </p>
-
-  <table>
-    <tr>
-      <td align="center">🔬 <b>Build</b><br/>Intelligent systems with measurable outcomes</td>
-      <td align="center">🌍 <b>Mission</b><br/>AI + Sustainability + Responsible Deployment</td>
-      <td align="center">📍 <b>Location</b><br/>Tempe, AZ · Open to Remote/Relocation</td>
-    </tr>
-  </table>
+  <img src="./github_cover.png" alt="Mounusha Ram Metti cover" width="100%" />
 
 </div>
 
