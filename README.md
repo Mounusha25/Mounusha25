@@ -3,33 +3,24 @@
 <!-- ============================================================= -->
 
 <div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
+    &nbsp;Mounusha Ram Metti
+  </h1>
+  <h3>Data Scientist &amp; ML Engineer • AI for Real-World Impact</h3>
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ░█▄░▄█ ░█▀▀█ ░█─░█ ░█▄─░█ ░█─░█ ░█▀▀▀█ ░█─░█ ─█▀▀█                 ║
-║    ░█░█░█ ░█░░░ ░█─░█ ░█░█░█ ░█─░█ ─▀▀▀▄▄ ░█▀▀█ ░█▄▄█                 ║
-║    ░█──░█ ░█▄▄█ ─▀▄▄▀ ░█──▀█ ─▀▄▄▀ ░█▄▄▄█ ░█─░█ ░█─░█                 ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   > Role    :  Data Scientist & ML Engineer                              ║
-║   > Degree  :  MS Data Science (Sustainable Eng.) @ ASU — Dec 2026      ║
-║   > Focus   :  ML · RAG · Geospatial AI · Sustainable Systems           ║
-║   > Building:  Video RAG — multimodal retrieval over video corpora       ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   🟢  Internship / Co-op  →  Available Immediately                       ║
-║   🟡  Full-time           →  Available December 2026                     ║
-║   📍  Tempe, AZ · Open to Remote & Relocation                            ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-</pre>
+  <p>
+    <img src="https://img.shields.io/badge/MS%20Data%20Science-ASU%20%7C%20Dec%202026-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-ML%20%7C%20RAG%20%7C%20Geospatial%20AI-1F8B4C?style=for-the-badge" />
+  </p>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=860&lines=Machine+Learning+%7C+RAG+Systems+%7C+NLP;Geospatial+AI+%7C+Sustainable+Engineering;15%2B+End-to-End+Projects+%7C+2+Live+Deployments;Teaching+data+to+tell+stories+that+matter+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
+  <table>
+    <tr>
+      <td align="center">🔬 <b>Build</b><br/>Intelligent systems with measurable outcomes</td>
+      <td align="center">🌍 <b>Mission</b><br/>AI + Sustainability + Responsible Deployment</td>
+      <td align="center">📍 <b>Location</b><br/>Tempe, AZ · Open to Remote/Relocation</td>
+    </tr>
+  </table>
 
 </div>
 
@@ -58,6 +49,25 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
+
+---
+
+<!-- ============================================================= -->
+<!-- CURRENTLY -->
+<!-- ============================================================= -->
+
+<h2 align="center">🚀 Currently</h2>
+
+<div align="center">
+
+| Track | Status |
+|---|---|
+| 🔨 Building | Video RAG for semantic search and context-aware Q&amp;A over video content |
+| 📖 Learning | Agentic AI workflows, MLOps practices, production-grade evaluation |
+| 💼 Internship / Co-op | 🟢 Available immediately |
+| 🎯 Full-time | 🟡 Available December 2026 |
+
+</div>
 
 ---
 
