@@ -19,7 +19,7 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="65%" valign="top" style="border: none;">
+    <td width="70%" valign="top" style="border: none;">
       <h3>👩‍💻 Professional Profile</h3>
       <p>
         <b>Data Scientist &nbsp;•&nbsp; Machine Learning Researcher</b><br><br>
@@ -27,13 +27,12 @@
       </p>
       <hr>
       <p>
-        🎓 <b>MS Data Science @ Arizona State University</b> (Dec 2026)<br>
+        🎓 <b>MS Data Science @ Arizona State University</b> (Dec 2026) - 4.0 GPA<br>
         🔬 <b>Data Science Researcher</b> @ ASU<br>
-        👨‍🏫 <b>Ex-TA</b> @ IIT Kharagpur<br>
         💡 <b>Building:</b> 15+ ML Systems & Video RAG Architectures
       </p>
     </td>
-    <td width="35%" valign="top" align="center" style="border: none;">
+    <td width="30%" valign="top" align="center" style="border: none;">
       <h3>🚀 Availability Phase</h3>
       <br>
       <img src="https://img.shields.io/badge/Seeking_Internships-Summer_2026-22C55E?style=for-the-badge" alt="Seeking Internships" />
@@ -86,33 +85,7 @@
 
 ---
 
-<!-- ============================================================= -->
-<!-- ABOUT ME -->
-<!-- ============================================================= -->
 
-<h2 align="center">✨ About Me</h2>
-
-```yaml
-Name:       Mounusha Ram Metti
-Degree:     MS in Data Science (Sustainable Engineering) @ Arizona State University
-Graduating: December 2026
-Passion:    Machine Learning, Sustainability, Data Science, Data Analytics
-
-Strengths:
-  - 🔬 Data-driven Development & Experimentation
-  - 🗺️  Geospatial Analysis & Mapping
-  - 🧠 Predictive Modeling & Interpretability
-  - 📊 Data Visualization & Storytelling
-
-Experience & Highlights:
-  - 💻 Built 15+ End-to-End Projects in Data Science & GIS
-  - 🧑‍🏫 Teaching Assistant — IIT Kharagpur
-  - 🌍 Data Science Researcher — Arizona State University
-  - 🎓 Graduate Service Assistant — Arizona State University
-  - ✊🏼 Graduate Assembly Member - Arizona State University
-```
-
----
 
 <!-- ============================================================= -->
 <!-- LANGUAGES & TOOLS -->
@@ -232,54 +205,48 @@ Experience & Highlights:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Healthcare NLP Assistant &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Deployed NLP-powered clinical assistant using RAG and transformer models on de-identified medical text — improving evidence grounding and reducing hallucinations for patient query responses.</p>
+      <h3>🛒 GenAI Retail Forecast &nbsp;<sup><code>✅ Active</code></sup></h3>
+      <p>Production-grade ML system that ingests raw retail sales, trains time-series forecasting models on BigQuery ML, and delivers 30-day demand forecasts through a FastAPI backend and Streamlit BI dashboard.</p>
       <p>
-        <b>Focus:</b> NLP · RAG · Healthcare AI · Ethics<br>
-        <b>Tech:</b> Python · HuggingFace · spaCy · Streamlit · Docker
+        <b>Focus:</b> Time-Series · Retail Forecasting · Big Data ML<br>
+        <b>Tech:</b> BigQuery ML · FastAPI · Streamlit · Python
       </p>
-      <a href="https://github.com/Mounusha25/AI_Medical_Chatbot" target="_blank">
+      <a href="https://github.com/Mounusha25/genai_retail_forecast" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>&nbsp;
-      <a href="https://huggingface.co/spaces/Mounusha/AI-Medical-Assistant" target="_blank">
-        <img src="https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📉 ChurnOpt &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Bridges the gap between ML prediction accuracy and real-world retention ROI — translating churn probabilities into profit-aware decisions under actual budget constraints.</p>
+      <h3>🎙️ Aria VisionAI &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Accessibility-focused voice AI for blind/visually impaired users. Listens to voice, reasons about intent, and executes desktop/web actions (browsing, writing, coding) through natural spoken conversation.</p>
       <p>
-        <b>Focus:</b> ML Decision Systems · Profit Optimization<br>
-        <b>Tech:</b> Python · scikit-learn · Pandas · Parquet
+        <b>Focus:</b> Voice AI · Accessibility · Multi-Modal LLMs<br>
+        <b>Tech:</b> LLMs · NLP · Desktop APIs · Speech-to-Text
       </p>
-      <a href="https://github.com/Mounusha25/churnopt" target="_blank">
+      <a href="https://github.com/Mounusha25/Aria_VisionAI" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ OptiVision — Edge Inference &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Production-ready real-time object detection service optimized for edge deployment — serving YOLOv8 inference via FastAPI with ONNX-accelerated latency and temporal activity summaries.</p>
+      <h3>🍄 MyceliumAI &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>A collaborative knowledge-sharing network for AI agents. Prevents wasted computation by enabling stuck, loop-bound agents to ask the collective network for help instead of failing repeatedly.</p>
       <p>
-        <b>Focus:</b> Edge AI · Computer Vision · ML Systems<br>
-        <b>Tech:</b> FastAPI · YOLOv8 · ONNX Runtime · Docker
+        <b>Focus:</b> Multi-Agent Systems · Knowledge Graphs · GenAI<br>
+        <b>Tech:</b> Python · Agentic Workflows · Distributed Computing
       </p>
-      <a href="https://github.com/Mounusha25/Optivision" target="_blank">
+      <a href="https://github.com/Mounusha25/MyceliumAI" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>&nbsp;
-      <a href="https://optivision-edge-inference-system.onrender.com" target="_blank">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=render&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 RAG Knowledge Engine &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Semantic retrieval pipeline that grounds LLM responses in external knowledge — enabling context-aware Q&amp;A over domain-specific document corpora with significantly reduced hallucinations.</p>
+      <h3>🛵 Swiggy Strategy Analysis &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Full-stack Swiggy sales analytics over 197,430 Indian food delivery orders. Developed three original strategic frameworks: City Expansion Index, Menu Intelligence Matrix, and Restaurant Health Score.</p>
       <p>
-        <b>Focus:</b> RAG · LLMs · Semantic Search<br>
-        <b>Tech:</b> LangChain · ChromaDB · LLaMA2 · AWS
+        <b>Focus:</b> Data Analytics · Business Strategy · ETL<br>
+        <b>Tech:</b> SQL · Pandas · Tableau · Data Engineering
       </p>
-      <a href="https://github.com/Mounusha25/Knowledge_management_system" target="_blank">
+      <a href="https://github.com/Mounusha25/swiggy_analysis" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
@@ -289,6 +256,54 @@ Experience & Highlights:
 
 ---
 
+<!-- ============================================================= -->
+<!-- EXTRACURRICULARS, CERTIFICATIONS & CONFERENCES -->
+<!-- ============================================================= -->
+
+<h2 align="center">🌟 Extracurriculars &amp; Certifications</h2>
+
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>✊🏼 Leadership &amp; Service</h3>
+      <br>
+      <ul style="list-style-type: none; padding-left: 0; line-height: 2.0;">
+        <li><img src="https://img.shields.io/badge/ASU-Graduate_Assembly_Member-8C1D40?style=for-the-badge" alt="ASU" /></li>
+        <li><img src="https://img.shields.io/badge/ASU-Graduate_Teaching_Assistant-8C1D40?style=for-the-badge" alt="ASU" /></li>
+        <li><img src="https://img.shields.io/badge/IIT_KGP-Teaching_Assistant-FFC300?style=for-the-badge" alt="IIT KGP" /></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📜 Professional Accolades</h3>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/Coursera-IBM_Data_Science-276DC3?style=flat-square&logo=coursera&logoColor=white" alt="IBM Data Science" /><br>
+        <br>
+        <b>Deep Learning Specialization</b><br>
+        <small><i>DeepLearning.AI</i></small><br>
+        <img src="https://img.shields.io/badge/CNNs-FF6F00?style=flat-square" alt="CNNs" />
+        <img src="https://img.shields.io/badge/RNNs-EE4C2C?style=flat-square" alt="RNNs" />
+        <img src="https://img.shields.io/badge/NLP-009688?style=flat-square" alt="NLP" />
+        <br>
+        <small><i>Optimization for real-world AI systems</i></small>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎙️ Tech Conferences</h3>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/Grace_Hopper_Celebration-(GHC)-9C27B0?style=flat-square" alt="GHC" /><br><br>
+        <img src="https://img.shields.io/badge/Developer_Week-000000?style=flat-square" alt="Developer Week" /><br><br>
+        <img src="https://img.shields.io/badge/StepSF-3F4F75?style=flat-square" alt="StepSF" /><br><br>
+        <img src="https://img.shields.io/badge/Databricks_Data_+_AI_Summit-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Summit" />
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 <!-- ============================================================= -->
 <!-- GITHUB ACTIVITY -->
