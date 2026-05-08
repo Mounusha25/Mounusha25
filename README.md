@@ -7,29 +7,61 @@
 
 </div>
 
----
-
 <!-- ============================================================= -->
-<!-- CONNECT -->
+<!-- HERO INTRO -->
 <!-- ============================================================= -->
 
-<h2 align="center">🔗 Connect with Me</h2>
+<div align="center">
+  <h2>👋 Hello, I'm Mounusha</h2>
+</div>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <h3>👩‍💻 Professional Profile</h3>
+      <p>
+        <b>Data Scientist &nbsp;•&nbsp; Machine Learning Researcher</b><br><br>
+        <i>Transforming raw data into sustainable, actionable intelligence using Machine Learning, Geospatial Analysis, and Generative AI.</i>
+      </p>
+      <hr>
+      <p>
+        🎓 <b>MS Data Science @ Arizona State University</b> (Dec 2026)<br>
+        🔬 <b>Data Science Researcher</b> @ ASU<br>
+        👨‍🏫 <b>Ex-TA</b> @ IIT Kharagpur<br>
+        💡 <b>Building:</b> 15+ ML Systems & Video RAG Architectures
+      </p>
+    </td>
+    <td width="35%" valign="top" align="center" style="border: none;">
+      <h3>🚀 Availability Phase</h3>
+      <br>
+      <img src="https://img.shields.io/badge/Seeking_Internships-Summer_2026-22C55E?style=for-the-badge" alt="Seeking Internships" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Work_Auth-Open_to_CPT_/_OPT-0284C7?style=flat-square" alt="CPT/OPT" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Location-Tempe,_AZ-EF4444?style=flat-square" alt="Tempe" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mounusha-ram-metti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mounusha-ram-metti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://mounushametti.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://mounushametti.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
-  <a href="https://drive.google.com/file/d/1fX_uzslae_voT9dHCNiJb4mQMPb8xwWj/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1fX_uzslae_voT9dHCNiJb4mQMPb8xwWj/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>&nbsp;
-  <a href="https://leetcode.com/u/Mounusha_25/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/Mounusha_25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/Mounusha_Metti" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/Mounusha_Metti">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 
