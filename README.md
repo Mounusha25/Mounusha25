@@ -20,7 +20,6 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="70%" valign="top" style="border: none;">
-      <h3>👩‍💻 Professional Profile</h3>
       <p>
         <b>Data Scientist &nbsp;•&nbsp; Machine Learning Researcher</b><br><br>
         <i>Transforming raw data into sustainable, actionable intelligence using Machine Learning, Geospatial Analysis, and Generative AI.</i>
@@ -59,8 +58,8 @@
   <a href="https://leetcode.com/u/Mounusha_25/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/Mounusha_Metti">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="mailto:mmetti@asu.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -190,6 +189,63 @@
 
 </td>
 </tr>
+</table>
+</div>
+
+---
+
+<!-- ============================================================= -->
+<!-- PROFESSIONAL EXPERIENCE -->
+<!-- ============================================================= -->
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🔬 Data Science Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
+      <p><i>🗓️ Oct 2025 – Present &nbsp; | &nbsp; 📍 Tempe, AZ</i></p>
+      <ul style="padding-left: 20px; line-height: 1.6;">
+        <li><b>IoT Data Pipelines:</b> Built validated Python & SQL pipelines for 70K+ IoT sensor records across 8 tracking stations, constructing model-ready datasets for forecasting and environmental trend analysis.</li>
+        <li><b>Anomaly Detection:</b> Developed statistical anomaly detection workflows on 14 environmental sensor parameters, improving false-alert detection by 40% vs. rule-based baselines.</li>
+        <li><b>Engineering API / BI:</b> Deployed PostgreSQL-backed access APIs (cutting retrieval latency by 35%) and built Tableau dashboards for tracking KPIs, accelerating insight generation 3x.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>📊 Data Analyst Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
+      <p><i>🗓️ Feb 2025 – Oct 2025 &nbsp; | &nbsp; 📍 Tempe, AZ</i></p>
+      <ul style="padding-left: 20px; line-height: 1.6;">
+        <li><b>Geospatial ELT:</b> Architected Python ELT pipelines integrating federal geospatial datasets (CWNS 2022 + NHDPlus) over 10K+ records, reducing processing time by 60%.</li>
+        <li><b>Graph Data Modeling:</b> Implemented BFS graph traversal in ArcPy to propagate flow attributes across directed networks, replacing manual workflows and improving reproducibility by 40%.</li>
+        <li><b>Predictive Analytics:</b> Engineered features using causal inference and statistical modeling, creating ML-ready risk scoring systems consumed by 3 distinct research groups.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>⚙️ Data Engineering Intern &nbsp; <kbd>AWL Metaverse Pvt. Ltd.</kbd></h3>
+      <p><i>🗓️ Mar 2024 – Dec 2024 &nbsp; | &nbsp; 📍 India</i></p>
+      <ul style="padding-left: 20px; line-height: 1.6;">
+        <li><b>Behavioral Analytics:</b> Analyzed 500K+ user activity records via SQL and Python to map engagement patterns, retention drivers, and depth of product usage.</li>
+        <li><b>ML Retention Modeling:</b> Built classification models to predict early learner churn, outperforming standard rule-based prediction baselines by 18%.</li>
+        <li><b>Data Productionization:</b> Centralized recurring metrics into indexed PostgreSQL datasets, pushing down BI query latency and data ingestion errors by 80%.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>📈 Data Analytics & Reporting Intern &nbsp; <kbd>Dharte Inc.</kbd></h3>
+      <p><i>🗓️ May 2023 – Aug 2023 &nbsp; | &nbsp; 📍 India</i></p>
+      <ul style="padding-left: 20px; line-height: 1.6;">
+        <li><b>Campaign Optimization:</b> Segmented multi-channel campaign data using SQL, Python, and Excel, optimizing target demographics and driving a 15% increase in Click-Through Rates (CTR).</li>
+        <li><b>Workflow Automation:</b> Scripted automated end-to-end reporting frameworks for CAC, conversion rates, and channel performance, reducing manual prep workloads by 40%.</li>
+        <li><b>Stakeholder Reporting:</b> Visualized KPI trends via interactive Tableau dashboards, empowering key stakeholders to arrive at business decisions 65% faster.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 </div>
 
