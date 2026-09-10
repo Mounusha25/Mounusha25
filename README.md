@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/mounusha-ram-metti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://mounushametti.vercel.app/">
+  <a href="https://mounushametti.com/">
     <img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://drive.google.com/file/d/1fX_uzslae_voT9dHCNiJb4mQMPb8xwWj/view?usp=sharing">
