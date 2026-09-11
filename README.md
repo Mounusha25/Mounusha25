@@ -21,14 +21,15 @@
   <tr>
     <td width="70%" valign="top" style="border: none;">
       <p>
-        <b>Data Scientist &nbsp;•&nbsp; Machine Learning Researcher</b><br><br>
-        <i>Transforming raw data into sustainable, actionable intelligence using Machine Learning, Geospatial Analysis, and Generative AI.</i>
+        <b>Data Scientist &nbsp;•&nbsp; ML / GenAI Engineer</b><br>
+        <b style="color:#16A34A;">Sustainability &amp; Water Tech</b><br><br>
+        <i>Building agentic AI, GenAI, and forecasting systems — grounded in a Civil &amp; Environmental Engineering foundation in water and sustainability.</i>
       </p>
       <hr>
       <p>
         🎓 <b>MS Data Science @ Arizona State University</b> (Dec 2026) - 4.0 GPA<br>
         🔬 <b>Data Science Researcher</b> @ ASU<br>
-        💡 <b>Building:</b> 15+ ML Systems & Video RAG Architectures
+        💡 <b>Built:</b> 17+ ML &amp; Agentic AI Systems — from GenAI marketplaces to accessibility-focused speech AI
       </p>
     </td>
     <td width="30%" valign="top" align="center" style="border: none;">
@@ -75,7 +76,7 @@
 
 | Track | Status |
 |---|---|
-| 🔨 Building | Video RAG for semantic search and context-aware Q&amp;A over video content |
+| 🔨 Building | Video RAG (ShotSpot) for semantic search and context-aware Q&amp;A over video content |
 | 📖 Learning | Agentic AI workflows, MLOps practices, production-grade evaluation |
 | 💼 Internship / Co-op | 🟢 Available immediately |
 | 🎯 Full-time | 🟡 Available December 2026 |
@@ -83,8 +84,6 @@
 </div>
 
 ---
-
-
 
 <!-- ============================================================= -->
 <!-- LANGUAGES & TOOLS -->
@@ -207,42 +206,43 @@
       <h3>🔬 Data Science Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
       <p><i>🗓️ Oct 2025 – Present &nbsp; | &nbsp; 📍 Tempe, AZ</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>IoT Data Pipelines:</b> Built validated Python & SQL pipelines for 70K+ IoT sensor records across 8 tracking stations, constructing model-ready datasets for forecasting and environmental trend analysis.</li>
-        <li><b>Anomaly Detection:</b> Developed statistical anomaly detection workflows on 14 environmental sensor parameters, improving false-alert detection by 40% vs. rule-based baselines.</li>
-        <li><b>Engineering API / BI:</b> Deployed PostgreSQL-backed access APIs (cutting retrieval latency by 35%) and built Tableau dashboards for tracking KPIs, accelerating insight generation 3x.</li>
+        <li><b>Client-Facing IoT Platform:</b> Architected an IoT water-monitoring platform for 9 stations, 14 sensor parameters, and 1.4M+ records at 5K+ readings/day — built directly for Salt River Project (SRP) as a client, now in active production use by SRP and 10+ ASU researchers.</li>
+        <li><b>Ingestion Reliability:</b> Engineered checkpoint recovery and idempotent 500-record batch ingestion achieving 99.9997% ingestion success, catching a ~960K-row desync incident via daily reconciliation.</li>
+        <li><b>Performance Engineering:</b> Migrated time-series storage to TimescaleDB and layered Redis caching, cutting full-fleet retrieval from 1.3-3.9 hours to under 2 seconds and improving API latency up to 57x.</li>
+        <li><b>Anomaly Research:</b> Ran a 14-round benchmarking process across sklearn IsolationForest and RandomForestClassifier models, exposing sensor-data contamination and reaching 0.80 F1 / 0.85 recall on 7,352 held-out windows.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>📊 Data Analyst Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
+      <h3>📊 Applied Data Analyst Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
       <p><i>🗓️ Feb 2025 – Oct 2025 &nbsp; | &nbsp; 📍 Tempe, AZ</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Geospatial ELT:</b> Architected Python ELT pipelines integrating federal geospatial datasets (CWNS 2022 + NHDPlus) over 10K+ records, reducing processing time by 60%.</li>
-        <li><b>Graph Data Modeling:</b> Implemented BFS graph traversal in ArcPy to propagate flow attributes across directed networks, replacing manual workflows and improving reproducibility by 40%.</li>
-        <li><b>Predictive Analytics:</b> Engineered features using causal inference and statistical modeling, creating ML-ready risk scoring systems consumed by 3 distinct research groups.</li>
+        <li><b>Geospatial ELT:</b> Automated an ELT pipeline integrating CWNS 2022 and NHDPlus federal datasets, cutting data processing time 60% with schema validation and bad-record rejection.</li>
+        <li><b>Graph Optimization:</b> Independently optimized memoized BFS traversal over a 1.07M-node river DAG for 1,100 intake points, cutting traversal time from 95 seconds to 12 seconds (8x speedup).</li>
+        <li><b>Predictive Analytics:</b> Modeled flow imputation with sklearn GradientBoosting for 337,000 ungauged river reaches, achieving 0.87 R², with features consumed by 3 research groups.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>⚙️ Data Engineering Intern &nbsp; <kbd>AWL Metaverse Pvt. Ltd.</kbd></h3>
-      <p><i>🗓️ Mar 2024 – Dec 2024 &nbsp; | &nbsp; 📍 India</i></p>
+      <h3>⚙️ Data Engineer Intern &nbsp; <kbd>AWL Metaverse Pvt. Ltd.</kbd></h3>
+      <p><i>🗓️ May 2024 – Dec 2024 &nbsp; | &nbsp; 📍 India</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Behavioral Analytics:</b> Analyzed 500K+ user activity records via SQL and Python to map engagement patterns, retention drivers, and depth of product usage.</li>
-        <li><b>ML Retention Modeling:</b> Built classification models to predict early learner churn, outperforming standard rule-based prediction baselines by 18%.</li>
-        <li><b>Data Productionization:</b> Centralized recurring metrics into indexed PostgreSQL datasets, pushing down BI query latency and data ingestion errors by 80%.</li>
+        <li><b>Retention Modeling:</b> Modeled logistic regression and XGBoost on 500K+ user activity records to predict early learner churn, improving retention prediction 18% over rule-based baselines.</li>
+        <li><b>Database Optimization:</b> Migrated PostgreSQL to AWS RDS, indexed hot columns, and cut p99 query latency 40%, while schema validation reduced ingestion errors 80%.</li>
+        <li><b>AI Support Assistant:</b> Deployed a LangChain + OpenAI embeddings RAG assistant with Chroma/FAISS retrieval, reducing dashboard-tracked support tickets by about 30%.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>📈 Data Analytics & Reporting Intern &nbsp; <kbd>Dharte Inc.</kbd></h3>
+      <h3>📈 Marketing & Data Analytics Intern &nbsp; <kbd>Dharte Inc.</kbd></h3>
       <p><i>🗓️ May 2023 – Aug 2023 &nbsp; | &nbsp; 📍 India</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Campaign Optimization:</b> Segmented multi-channel campaign data using SQL, Python, and Excel, optimizing target demographics and driving a 15% increase in Click-Through Rates (CTR).</li>
-        <li><b>Workflow Automation:</b> Scripted automated end-to-end reporting frameworks for CAC, conversion rates, and channel performance, reducing manual prep workloads by 40%.</li>
-        <li><b>Stakeholder Reporting:</b> Visualized KPI trends via interactive Tableau dashboards, empowering key stakeholders to arrive at business decisions 65% faster.</li>
+        <li><b>Campaign Optimization:</b> Designed 2 Wix web variants and ran an A/B test across 3K+ visitors, measuring a 15% relative CTR lift to inform UX decisions.</li>
+        <li><b>Referral Growth:</b> Co-developed a 12-ambassador referral campaign, analyzing 8,500 referral visits and measuring a 4.3% conversion rate — about a 15% relative lift over non-ambassador traffic.</li>
+        <li><b>Reporting Automation:</b> Automated weekly SQL and Python reporting, cutting turnaround from 3-4 hours to about 1 hour, backed by 2 Tableau dashboards tracking 8 KPIs.</li>
       </ul>
     </td>
   </tr>
@@ -261,48 +261,72 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 GenAI Retail Forecast &nbsp;<sup><code>✅ Active</code></sup></h3>
-      <p>Production-grade ML system that ingests raw retail sales, trains time-series forecasting models on BigQuery ML, and delivers 30-day demand forecasts through a FastAPI backend and Streamlit BI dashboard.</p>
+      <h3>🚚 FoodPilot AI &nbsp;<sup><code>✅ Active</code></sup></h3>
+      <p>AI-native food-truck marketplace spanning 107 trucks and 635 menu items. A 4-tier stack (Next.js, Spring Boot gateway, FastAPI/LangGraph AI service) powers an AI Concierge, a structured-output Order Builder, and an Owner Copilot for sales and complaint analysis.</p>
       <p>
-        <b>Focus:</b> Time-Series · Retail Forecasting · Big Data ML<br>
-        <b>Tech:</b> BigQuery ML · FastAPI · Streamlit · Python
+        <b>Focus:</b> Agentic AI · Full-Stack AI Product · Tool-Calling<br>
+        <b>Tech:</b> Next.js · Spring Boot · FastAPI · LangChain/LangGraph
       </p>
-      <a href="https://github.com/Mounusha25/genai_retail_forecast" target="_blank">
+      <a href="https://github.com/Mounusha25/foodpilot-ai" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ Aria VisionAI &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Accessibility-focused voice AI for blind/visually impaired users. Listens to voice, reasons about intent, and executes desktop/web actions (browsing, writing, coding) through natural spoken conversation.</p>
+      <h3>🩺 TrustMed-AI &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Agentic medical RAG platform indexing 9K+ medical chunks with FAISS and cross-encoder reranking, plus a 3-step ReAct trace for auditable answers. Benchmarked across 100 prompts and 5 medical domains for grounded accuracy.</p>
       <p>
-        <b>Focus:</b> Voice AI · Accessibility · Multi-Modal LLMs<br>
-        <b>Tech:</b> LLMs · NLP · Desktop APIs · Speech-to-Text
+        <b>Focus:</b> Medical RAG · Agentic AI · Healthcare<br>
+        <b>Tech:</b> ChromaDB · FAISS · LangChain · Next.js
       </p>
-      <a href="https://github.com/Mounusha25/Aria_VisionAI" target="_blank">
+      <a href="https://github.com/Mounusha25/TrustMedAI" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍄 MyceliumAI &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>A collaborative knowledge-sharing network for AI agents. Prevents wasted computation by enabling stuck, loop-bound agents to ask the collective network for help instead of failing repeatedly.</p>
+      <h3>👗 StyleNova-AI &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Fashion computer-vision and hybrid recommendation engine combining CLIP embeddings with cold-start-aware weighting. Reaches 0.73 Precision@10 and 89% catalog coverage, with GPT-4o-mini explaining every recommendation.</p>
       <p>
-        <b>Focus:</b> Multi-Agent Systems · Knowledge Graphs · GenAI<br>
-        <b>Tech:</b> Python · Agentic Workflows · Distributed Computing
+        <b>Focus:</b> Computer Vision · Recommender Systems<br>
+        <b>Tech:</b> PyTorch · CLIP · FastAPI · Next.js
       </p>
-      <a href="https://github.com/Mounusha25/MyceliumAI" target="_blank">
+      <a href="https://github.com/Mounusha25/StyleNova_AI" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛵 Swiggy Strategy Analysis &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Full-stack Swiggy sales analytics over 197,430 Indian food delivery orders. Developed three original strategic frameworks: City Expansion Index, Menu Intelligence Matrix, and Restaurant Health Score.</p>
+      <h3>☸️ KubeGuard &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>AIOps anomaly detector polling Kubernetes pod memory every second, using an LSTM + LightGBM hybrid to forecast failures before they happen. A custom Go Prometheus exporter feeds predictions into the autoscaler, with LLM-generated remediation commands.</p>
       <p>
-        <b>Focus:</b> Data Analytics · Business Strategy · ETL<br>
-        <b>Tech:</b> SQL · Pandas · Tableau · Data Engineering
+        <b>Focus:</b> AIOps · Kubernetes · SRE<br>
+        <b>Tech:</b> TensorFlow · LightGBM · Go · Prometheus
       </p>
-      <a href="https://github.com/Mounusha25/swiggy_analysis" target="_blank">
+      <a href="https://github.com/Mounusha25/Kube_Pulse" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗣️ SpeakSmart AI &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <p>Accessible speech platform built for stuttered, accented, and fragmented speech, reaching 87% intent-recognition accuracy. Real-time lip-synced 3D avatars map audio to phoneme cues at 95% match precision.</p>
+      <p>
+        <b>Focus:</b> Accessibility · Speech AI · Real-Time 3D<br>
+        <b>Tech:</b> React Three Fiber · Ollama · ElevenLabs
+      </p>
+      <a href="https://github.com/Mounusha25/Emoti_sphere" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 GenAI Retail Forecast &nbsp;<sup><code>✅ Active</code></sup></h3>
+      <p>Retail demand forecasting across 1,115 stores. BigQuery ML ARIMA_PLUS models generate 33,450 30-day forecasts, benchmarked at 16.92 MAPE versus 21.91–24.74 for baseline models, delivered through a FastAPI backend and Streamlit dashboard.</p>
+      <p>
+        <b>Focus:</b> Time-Series Forecasting · Data Science<br>
+        <b>Tech:</b> BigQuery ML · FastAPI · Streamlit · Python
+      </p>
+      <a href="https://github.com/Mounusha25/genai_retail_forecast" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
@@ -391,3 +415,5 @@
   <i>"Let's connect if you're building at the intersection of <b>data, AI, and sustainability</b>." 🌍</i><br>
   <i>Always open to collaborating on projects that <b>matter</b>.</i>
 </p>
+
+---
