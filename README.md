@@ -291,7 +291,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>☸️ KubeGuard &nbsp;<sup><code>✅ Complete</code></sup></h3>
+      <h3>☸️ KubePulse &nbsp;<sup><code>✅ Complete</code></sup></h3>
       <p>AIOps anomaly detector polling Kubernetes pod memory every second, using an LSTM + LightGBM hybrid to forecast failures before they happen. A custom Go Prometheus exporter feeds predictions into the autoscaler, with LLM-generated remediation commands.</p>
       <p>
         <b>Focus:</b> AIOps · Kubernetes · SRE<br>
