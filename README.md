@@ -29,13 +29,13 @@
       <p>
         🎓 <b>MS Data Science @ Arizona State University</b> (Dec 2026) - 4.0 GPA<br>
         🔬 <b>Data Science Researcher</b> @ ASU<br>
-        💡 <b>Built:</b> 17+ ML &amp; Agentic AI Systems — from GenAI marketplaces to accessibility-focused speech AI
+        💡 <b>Built:</b> 20+ ML &amp; Agentic AI Systems — from GenAI marketplaces to accessibility-focused speech AI
       </p>
     </td>
     <td width="30%" valign="top" align="center" style="border: none;">
       <h3>🚀 Availability Phase</h3>
       <br>
-      <img src="https://img.shields.io/badge/Seeking_Internships-Summer_2026-22C55E?style=for-the-badge" alt="Seeking Internships" />
+      <img src="https://img.shields.io/badge/Seeking_Full--Time-Starting_Dec_2026-22C55E?style=for-the-badge" alt="Seeking full-time roles starting December 2026" />
       <br><br>
       <img src="https://img.shields.io/badge/Work_Auth-Open_to_CPT_/_OPT-0284C7?style=flat-square" alt="CPT/OPT" />
       <br><br>
