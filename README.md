@@ -206,10 +206,9 @@
       <h3>🔬 Data Science Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
       <p><i>🗓️ Oct 2025 – Present &nbsp; | &nbsp; 📍 Tempe, AZ</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Client-Facing IoT Platform:</b> Architected an IoT water-monitoring platform for 9 stations, 14 sensor parameters, and 1.4M+ records at 5K+ readings/day — built directly for Salt River Project (SRP) as a client, now in active production use by SRP and 10+ ASU researchers.</li>
-        <li><b>Ingestion Reliability:</b> Engineered checkpoint recovery and idempotent 500-record batch ingestion achieving 99.9997% ingestion success, catching a ~960K-row desync incident via daily reconciliation.</li>
-        <li><b>Performance Engineering:</b> Migrated time-series storage to TimescaleDB and layered Redis caching, cutting full-fleet retrieval from 1.3-3.9 hours to under 2 seconds and improving API latency up to 57x.</li>
-        <li><b>Anomaly Research:</b> Ran a 14-round benchmarking process across sklearn IsolationForest and RandomForestClassifier models, exposing sensor-data contamination and reaching 0.80 F1 / 0.85 recall on 7,352 held-out windows.</li>
+        <li><b>IoT Platform:</b> Built a water-monitoring platform for Salt River Project (9 stations, 14 sensor parameters, 1.4M+ records), now used by SRP and 10+ ASU researchers.</li>
+<li><b>Performance &amp; Reliability:</b> Cut full-fleet retrieval from hours to under 2 seconds with TimescaleDB and Redis, and reached 99.9997% ingestion success with idempotent batch ingestion.</li>
+<li><b>Anomaly Detection:</b> Benchmarked IsolationForest and RandomForest models over 14 rounds, reaching 0.80 F1 on 7,352 held-out windows.</li>
       </ul>
     </td>
   </tr>
@@ -218,9 +217,8 @@
       <h3>📊 Applied Data Analyst Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
       <p><i>🗓️ Feb 2025 – Oct 2025 &nbsp; | &nbsp; 📍 Tempe, AZ</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Geospatial ELT:</b> Automated an ELT pipeline integrating CWNS 2022 and NHDPlus federal datasets, cutting data processing time 60% with schema validation and bad-record rejection.</li>
-        <li><b>Graph Optimization:</b> Independently optimized memoized BFS traversal over a 1.07M-node river DAG for 1,100 intake points, cutting traversal time from 95 seconds to 12 seconds (8x speedup).</li>
-        <li><b>Predictive Analytics:</b> Modeled flow imputation with sklearn GradientBoosting for 337,000 ungauged river reaches, achieving 0.87 R², with features consumed by 3 research groups.</li>
+        <li><b>Geospatial Pipeline:</b> Automated an ELT pipeline over CWNS and NHDPlus federal datasets, cutting processing time 60%, and sped up a 1.07M-node river-graph traversal 8x (95s to 12s).</li>
+<li><b>Predictive Modeling:</b> Modeled flow for 337,000 ungauged river reaches (0.87 R²), with features used by 3 research groups.</li>
       </ul>
     </td>
   </tr>
@@ -229,9 +227,8 @@
       <h3>⚙️ Data Engineer Intern &nbsp; <kbd>AWL Metaverse Pvt. Ltd.</kbd></h3>
       <p><i>🗓️ May 2024 – Dec 2024 &nbsp; | &nbsp; 📍 India</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Retention Modeling:</b> Modeled logistic regression and XGBoost on 500K+ user activity records to predict early learner churn, improving retention prediction 18% over rule-based baselines.</li>
-        <li><b>Database Optimization:</b> Migrated PostgreSQL to AWS RDS, indexed hot columns, and cut p99 query latency 40%, while schema validation reduced ingestion errors 80%.</li>
-        <li><b>AI Support Assistant:</b> Deployed a LangChain + OpenAI embeddings RAG assistant with Chroma/FAISS retrieval, reducing dashboard-tracked support tickets by about 30%.</li>
+        <li><b>ML &amp; Data:</b> Improved early-churn prediction 18% over rule-based baselines on 500K+ records, and cut p99 query latency 40% after an AWS RDS migration.</li>
+<li><b>RAG Assistant:</b> Deployed a LangChain + OpenAI RAG support assistant that reduced support tickets by about 30%.</li>
       </ul>
     </td>
   </tr>
@@ -240,9 +237,7 @@
       <h3>📈 Marketing & Data Analytics Intern &nbsp; <kbd>Dharte Inc.</kbd></h3>
       <p><i>🗓️ May 2023 – Aug 2023 &nbsp; | &nbsp; 📍 India</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Campaign Optimization:</b> Designed 2 Wix web variants and ran an A/B test across 3K+ visitors, measuring a 15% relative CTR lift to inform UX decisions.</li>
-        <li><b>Referral Growth:</b> Co-developed a 12-ambassador referral campaign, analyzing 8,500 referral visits and measuring a 4.3% conversion rate — about a 15% relative lift over non-ambassador traffic.</li>
-        <li><b>Reporting Automation:</b> Automated weekly SQL and Python reporting, cutting turnaround from 3-4 hours to about 1 hour, backed by 2 Tableau dashboards tracking 8 KPIs.</li>
+        <li><b>Analytics:</b> Ran an A/B test across 3K+ visitors (15% relative CTR lift) and automated weekly reporting from 3–4 hours to about 1 hour, with 2 Tableau dashboards tracking 8 KPIs.</li>
       </ul>
     </td>
   </tr>
