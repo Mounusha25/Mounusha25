@@ -316,13 +316,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗣️ SpeakSmart AI &nbsp;<sup><code>✅ Complete</code></sup></h3>
-      <p>Accessible speech platform built for stuttered, accented, and fragmented speech, reaching 87% intent-recognition accuracy. Real-time lip-synced 3D avatars map audio to phoneme cues at 95% match precision.</p>
+      <h3>🌊 DO Sentinel &nbsp;<sup><code>✅ Active</code></sup></h3>
+      <p>End-to-end dissolved-oxygen forecasting and sensor-fault triage across 14 USGS stream sites in 11 states. Per-site gradient-boosting models reduced forecast error by 25% at 6 hours, while a cost-aware alert layer warned of 80% of low-oxygen events at very low alert volume.</p>
       <p>
-        <b>Focus:</b> Accessibility · Speech AI · Real-Time 3D<br>
-        <b>Tech:</b> React Three Fiber · Ollama · ElevenLabs
+        <b>Focus:</b> Environmental ML · Time-Series Forecasting · Sensor Analytics<br>
+        <b>Tech:</b> Python · scikit-learn · FastAPI · Docker · GitHub Actions
       </p>
-      <a href="https://github.com/Mounusha25/Emoti_sphere" target="_blank">
+      <a href="https://github.com/Mounusha25/DO_sentinel" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
