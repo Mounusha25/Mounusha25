@@ -203,42 +203,54 @@
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <h3>🔬 Data Science Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
+      <h3>🔬 Machine Learning Engineer | IoT Data &amp; Analytics &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
       <p><i>🗓️ Oct 2025 – Present &nbsp; | &nbsp; 📍 Tempe, AZ</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>IoT Platform:</b> Built a water-monitoring platform for Salt River Project (9 stations, 14 sensor parameters, 1.4M+ records), now used by SRP and 10+ ASU researchers.</li>
-<li><b>Performance &amp; Reliability:</b> Cut full-fleet retrieval from hours to under 2 seconds with TimescaleDB and Redis, and reached 99.9997% ingestion success with idempotent batch ingestion.</li>
-<li><b>Anomaly Detection:</b> Benchmarked IsolationForest and RandomForest models over 14 rounds, reaching 0.80 F1 on 7,352 held-out windows.</li>
+        <li>Built a production IoT platform for 9 stations, 14 sensor parameters, and 1.58M+ records.</li>
+        <li>Achieved 99.9997% ingestion success with idempotent batching and automated reconciliation.</li>
+        <li>Tracked 132 MLflow runs across 5 anomaly-model families, reaching 0.80 F1 and 0.85 recall.</li>
+        <li>Cut fleet-wide retrieval from hours to under 2 seconds; delivered the platform for active SRP use.</li>
       </ul>
+      <p><b>Skills:</b> Python · Machine Learning · MLflow · FastAPI · TimescaleDB · AWS</p>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>📊 Applied Data Analyst Researcher &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
+      <h3>🌊 Data Scientist | Geospatial &amp; Infrastructure Analytics &nbsp; <img src="https://img.shields.io/badge/-Arizona_State_University-8C1D40?style=flat-square&logo=gitbook&logoColor=white" alt="ASU" /></h3>
       <p><i>🗓️ Feb 2025 – Oct 2025 &nbsp; | &nbsp; 📍 Tempe, AZ</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Geospatial Pipeline:</b> Automated an ELT pipeline over CWNS and NHDPlus federal datasets, cutting processing time 60%, and sped up a 1.07M-node river-graph traversal 8x (95s to 12s).</li>
-<li><b>Predictive Modeling:</b> Modeled flow for 337,000 ungauged river reaches (0.87 R²), with features used by 3 research groups.</li>
+        <li>Automated a federal-data ELT pipeline, reducing processing time by 60%.</li>
+        <li>Optimized traversal of a 1.07M-node river graph from 95 seconds to 12 seconds.</li>
+        <li>Modeled flow for 337K ungauged river reaches with Gradient Boosting, achieving 0.87 R².</li>
+        <li>Engineered geospatial features used by 3 research groups for infrastructure-risk analysis.</li>
       </ul>
+      <p><b>Skills:</b> Python · scikit-learn · ArcGIS Pro · QGIS · ETL · Graph Algorithms</p>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>⚙️ Data Engineer Intern &nbsp; <kbd>AWL Metaverse Pvt. Ltd.</kbd></h3>
+      <h3>⚙️ Software Engineer Intern | Machine Learning &amp; Analytics &nbsp; <kbd>AWL Metaverse Pvt. Ltd.</kbd></h3>
       <p><i>🗓️ May 2024 – Dec 2024 &nbsp; | &nbsp; 📍 India</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>ML &amp; Data:</b> Improved early-churn prediction 18% over rule-based baselines on 500K+ records, and cut p99 query latency 40% after an AWS RDS migration.</li>
-<li><b>RAG Assistant:</b> Deployed a LangChain + OpenAI RAG support assistant that reduced support tickets by about 30%.</li>
+        <li>Delivered production AI and backend features for a 5,000+ user learning platform.</li>
+        <li>Improved retention prediction by 18% using logistic regression and XGBoost on 500K+ records.</li>
+        <li>Deployed a LangChain and OpenAI RAG assistant that reduced support tickets by about 30%.</li>
+        <li>Cut PostgreSQL p99 latency by 40% and ingestion errors by 80% on AWS.</li>
       </ul>
+      <p><b>Skills:</b> Python · FastAPI · XGBoost · LangChain · RAG · PostgreSQL · AWS</p>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>📈 Marketing & Data Analytics Intern &nbsp; <kbd>Dharte Inc.</kbd></h3>
+      <h3>📈 Marketing &amp; Data Analytics Intern &nbsp; <kbd>Dharte Inc.</kbd></h3>
       <p><i>🗓️ May 2023 – Aug 2023 &nbsp; | &nbsp; 📍 India</i></p>
       <ul style="padding-left: 20px; line-height: 1.6;">
-        <li><b>Analytics:</b> Ran an A/B test across 3K+ visitors (15% relative CTR lift) and automated weekly reporting from 3–4 hours to about 1 hour, with 2 Tableau dashboards tracking 8 KPIs.</li>
+        <li>Analyzed 25K+ campaign interactions across 3 channels using SQL and Python.</li>
+        <li>Reduced weekly reporting from 3–4 hours to about 1 hour with automated data pipelines.</li>
+        <li>Built 2 Tableau dashboards tracking 8 acquisition, funnel, and experimentation KPIs.</li>
+        <li>Measured a 15% relative CTR lift through an A/B test involving 3K+ visitors.</li>
       </ul>
+      <p><b>Skills:</b> SQL · Python · dbt · Tableau · Excel · A/B Testing</p>
     </td>
   </tr>
 </table>
